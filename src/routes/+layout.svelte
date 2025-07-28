@@ -1,57 +1,23 @@
 <script>
-	import Header from './Header.svelte';
-	import '../app.css';
-
+	import '$lib/scss/styles.scss';
 	let { children } = $props();
 </script>
 
 <div class="app">
-	<Header />
+	<div class="position-absolute p-2 top-0 start-0 fst-italic">
+		<a
+			class="text-muted"
+			href="https://app.powerbi.com/view?r=eyJrIjoiMzc5YjdkNWEtNWI2Yi00ZTA1LThiMWQtMzMwYjFlYWUwYzEwIiwidCI6IjcyMmVhMGJlLTNlMWMtNGIxMS1hZDZmLTk0MDFkNjg1NmUyNCJ9"
+		>
+			⏴Back to dashboard
+		</a>
+	</div>
 
 	<main>
 		{@render children()}
 	</main>
 
-	<footer>
-		<p>
-			visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to learn about SvelteKit
-		</p>
+	<footer class="position-absolute bottom-0 w-100">
+		<p class="w-100 text-center text-muted">© Government of Victoria, 2025</p>
 	</footer>
 </div>
-
-<style>
-	.app {
-		display: flex;
-		flex-direction: column;
-		min-height: 100vh;
-	}
-
-	main {
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-		padding: 1rem;
-		width: 100%;
-		max-width: 64rem;
-		margin: 0 auto;
-		box-sizing: border-box;
-	}
-
-	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 12px;
-	}
-
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
-	}
-</style>
