@@ -1,0 +1,3224 @@
+[
+	{
+		"Occupation ANZSCO4 Code": 1111,
+		"Occupation": "Chief executives and managing directors",
+		"Employment 2024": 16470,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 902,
+		"Retirements 2024-2027": 1553,
+		"Total new workers expected by 2027": 2455
+	},
+	{
+		"Occupation ANZSCO4 Code": 1112,
+		"Occupation": "General managers",
+		"Employment 2024": 20990,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 1137,
+		"Retirements 2024-2027": 1252,
+		"Total new workers expected by 2027": 2388
+	},
+	{
+		"Occupation ANZSCO4 Code": 1113,
+		"Occupation": "Legislators",
+		"Employment 2024": 677,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 41,
+		"Retirements 2024-2027": 51,
+		"Total new workers expected by 2027": 92
+	},
+	{
+		"Occupation ANZSCO4 Code": 1211,
+		"Occupation": "Aquaculture farmers",
+		"Employment 2024": 42,
+		"Annual employment growth rate (%) 2024-2027": -0.33,
+		"Employment growth 2024-2027": -29,
+		"Retirements 2024-2027": 1,
+		"Total new workers expected by 2027": -28
+	},
+	{
+		"Occupation ANZSCO4 Code": 1212,
+		"Occupation": "Crop farmers",
+		"Employment 2024": 8210,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": -4,
+		"Retirements 2024-2027": 902,
+		"Total new workers expected by 2027": 898
+	},
+	{
+		"Occupation ANZSCO4 Code": 1213,
+		"Occupation": "Livestock farmers",
+		"Employment 2024": 25252,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": -13,
+		"Retirements 2024-2027": 2802,
+		"Total new workers expected by 2027": 2789
+	},
+	{
+		"Occupation ANZSCO4 Code": 1214,
+		"Occupation": "Mixed crop and livestock farmers",
+		"Employment 2024": 6095,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": -2,
+		"Retirements 2024-2027": 715,
+		"Total new workers expected by 2027": 713
+	},
+	{
+		"Occupation ANZSCO4 Code": 1311,
+		"Occupation": "Advertising, public relations and sales managers",
+		"Employment 2024": 49971,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 3906,
+		"Retirements 2024-2027": 1371,
+		"Total new workers expected by 2027": 5277
+	},
+	{
+		"Occupation ANZSCO4 Code": 1321,
+		"Occupation": "Corporate services managers",
+		"Employment 2024": 5749,
+		"Annual employment growth rate (%) 2024-2027": 0.031,
+		"Employment growth 2024-2027": 554,
+		"Retirements 2024-2027": 312,
+		"Total new workers expected by 2027": 866
+	},
+	{
+		"Occupation ANZSCO4 Code": 1322,
+		"Occupation": "Finance managers",
+		"Employment 2024": 21639,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 1854,
+		"Retirements 2024-2027": 1209,
+		"Total new workers expected by 2027": 3063
+	},
+	{
+		"Occupation ANZSCO4 Code": 1323,
+		"Occupation": "Human resource managers",
+		"Employment 2024": 26312,
+		"Annual employment growth rate (%) 2024-2027": 0.03,
+		"Employment growth 2024-2027": 2398,
+		"Retirements 2024-2027": 1368,
+		"Total new workers expected by 2027": 3766
+	},
+	{
+		"Occupation ANZSCO4 Code": 1324,
+		"Occupation": "Policy and planning managers",
+		"Employment 2024": 7270,
+		"Annual employment growth rate (%) 2024-2027": 0.03,
+		"Employment growth 2024-2027": 679,
+		"Retirements 2024-2027": 721,
+		"Total new workers expected by 2027": 1400
+	},
+	{
+		"Occupation ANZSCO4 Code": 1325,
+		"Occupation": "Research and development managers",
+		"Employment 2024": 6533,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 572,
+		"Retirements 2024-2027": 292,
+		"Total new workers expected by 2027": 865
+	},
+	{
+		"Occupation ANZSCO4 Code": 1331,
+		"Occupation": "Construction managers",
+		"Employment 2024": 36933,
+		"Annual employment growth rate (%) 2024-2027": 0.058,
+		"Employment growth 2024-2027": 6848,
+		"Retirements 2024-2027": 1876,
+		"Total new workers expected by 2027": 8724
+	},
+	{
+		"Occupation ANZSCO4 Code": 1332,
+		"Occupation": "Engineering managers",
+		"Employment 2024": 8217,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 712,
+		"Retirements 2024-2027": 434,
+		"Total new workers expected by 2027": 1146
+	},
+	{
+		"Occupation ANZSCO4 Code": 1333,
+		"Occupation": "Importers, exporters and wholesalers",
+		"Employment 2024": 7292,
+		"Annual employment growth rate (%) 2024-2027": 0.012,
+		"Employment growth 2024-2027": 269,
+		"Retirements 2024-2027": 483,
+		"Total new workers expected by 2027": 752
+	},
+	{
+		"Occupation ANZSCO4 Code": 1334,
+		"Occupation": "Manufacturers",
+		"Employment 2024": 7389,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 342,
+		"Retirements 2024-2027": 327,
+		"Total new workers expected by 2027": 669
+	},
+	{
+		"Occupation ANZSCO4 Code": 1335,
+		"Occupation": "Production managers",
+		"Employment 2024": 18218,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 1117,
+		"Retirements 2024-2027": 996,
+		"Total new workers expected by 2027": 2113
+	},
+	{
+		"Occupation ANZSCO4 Code": 1336,
+		"Occupation": "Supply, distribution and procurement managers",
+		"Employment 2024": 15086,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 1183,
+		"Retirements 2024-2027": 747,
+		"Total new workers expected by 2027": 1931
+	},
+	{
+		"Occupation ANZSCO4 Code": 1341,
+		"Occupation": "Child care centre managers",
+		"Employment 2024": 6474,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 483,
+		"Retirements 2024-2027": 290,
+		"Total new workers expected by 2027": 773
+	},
+	{
+		"Occupation ANZSCO4 Code": 1342,
+		"Occupation": "Health and welfare services managers",
+		"Employment 2024": 11034,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 961,
+		"Retirements 2024-2027": 1007,
+		"Total new workers expected by 2027": 1968
+	},
+	{
+		"Occupation ANZSCO4 Code": 1343,
+		"Occupation": "School principals",
+		"Employment 2024": 5992,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 394,
+		"Retirements 2024-2027": 673,
+		"Total new workers expected by 2027": 1067
+	},
+	{
+		"Occupation ANZSCO4 Code": 1344,
+		"Occupation": "Other education managers",
+		"Employment 2024": 3946,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 222,
+		"Retirements 2024-2027": 424,
+		"Total new workers expected by 2027": 646
+	},
+	{
+		"Occupation ANZSCO4 Code": 1351,
+		"Occupation": "Ict managers",
+		"Employment 2024": 25998,
+		"Annual employment growth rate (%) 2024-2027": 0.029,
+		"Employment growth 2024-2027": 2322,
+		"Retirements 2024-2027": 934,
+		"Total new workers expected by 2027": 3256
+	},
+	{
+		"Occupation ANZSCO4 Code": 1391,
+		"Occupation": "Commissioned officers (management)",
+		"Employment 2024": 1817,
+		"Annual employment growth rate (%) 2024-2027": 0.029,
+		"Employment growth 2024-2027": 161,
+		"Retirements 2024-2027": 180,
+		"Total new workers expected by 2027": 341
+	},
+	{
+		"Occupation ANZSCO4 Code": 1392,
+		"Occupation": "Senior non-commissioned defence force members",
+		"Employment 2024": 517,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 31,
+		"Retirements 2024-2027": 85,
+		"Total new workers expected by 2027": 115
+	},
+	{
+		"Occupation ANZSCO4 Code": 1399,
+		"Occupation": "Other specialist managers",
+		"Employment 2024": 20351,
+		"Annual employment growth rate (%) 2024-2027": 0.026,
+		"Employment growth 2024-2027": 1620,
+		"Retirements 2024-2027": 1042,
+		"Total new workers expected by 2027": 2662
+	},
+	{
+		"Occupation ANZSCO4 Code": 1411,
+		"Occupation": "Cafe and restaurant managers",
+		"Employment 2024": 14928,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 492,
+		"Retirements 2024-2027": 934,
+		"Total new workers expected by 2027": 1426
+	},
+	{
+		"Occupation ANZSCO4 Code": 1412,
+		"Occupation": "Caravan park and camping ground managers",
+		"Employment 2024": 1602,
+		"Annual employment growth rate (%) 2024-2027": -0.001,
+		"Employment growth 2024-2027": -5,
+		"Retirements 2024-2027": 378,
+		"Total new workers expected by 2027": 374
+	},
+	{
+		"Occupation ANZSCO4 Code": 1413,
+		"Occupation": "Hotel and motel managers",
+		"Employment 2024": 5029,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 90,
+		"Retirements 2024-2027": 440,
+		"Total new workers expected by 2027": 530
+	},
+	{
+		"Occupation ANZSCO4 Code": 1414,
+		"Occupation": "Licensed club managers",
+		"Employment 2024": 1374,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 20,
+		"Retirements 2024-2027": 27,
+		"Total new workers expected by 2027": 47
+	},
+	{
+		"Occupation ANZSCO4 Code": 1419,
+		"Occupation": "Other accommodation and hospitality managers",
+		"Employment 2024": 2781,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 57,
+		"Retirements 2024-2027": 579,
+		"Total new workers expected by 2027": 636
+	},
+	{
+		"Occupation ANZSCO4 Code": 1421,
+		"Occupation": "Retail managers",
+		"Employment 2024": 68780,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 390,
+		"Retirements 2024-2027": 3890,
+		"Total new workers expected by 2027": 4280
+	},
+	{
+		"Occupation ANZSCO4 Code": 1491,
+		"Occupation": "Amusement, fitness and sports centre managers",
+		"Employment 2024": 4049,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 21,
+		"Retirements 2024-2027": 162,
+		"Total new workers expected by 2027": 182
+	},
+	{
+		"Occupation ANZSCO4 Code": 1492,
+		"Occupation": "Call or contact centre and customer service managers",
+		"Employment 2024": 12661,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 399,
+		"Retirements 2024-2027": 517,
+		"Total new workers expected by 2027": 916
+	},
+	{
+		"Occupation ANZSCO4 Code": 1493,
+		"Occupation": "Conference and event organisers",
+		"Employment 2024": 7298,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 216,
+		"Retirements 2024-2027": 217,
+		"Total new workers expected by 2027": 433
+	},
+	{
+		"Occupation ANZSCO4 Code": 1494,
+		"Occupation": "Transport services managers",
+		"Employment 2024": 5169,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 286,
+		"Retirements 2024-2027": 400,
+		"Total new workers expected by 2027": 686
+	},
+	{
+		"Occupation ANZSCO4 Code": 1499,
+		"Occupation": "Other hospitality, retail and service managers",
+		"Employment 2024": 20396,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 672,
+		"Retirements 2024-2027": 1131,
+		"Total new workers expected by 2027": 1803
+	},
+	{
+		"Occupation ANZSCO4 Code": 2111,
+		"Occupation": "Actors, dancers and other entertainers",
+		"Employment 2024": 1561,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 91,
+		"Retirements 2024-2027": 159,
+		"Total new workers expected by 2027": 250
+	},
+	{
+		"Occupation ANZSCO4 Code": 2112,
+		"Occupation": "Music professionals",
+		"Employment 2024": 3313,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 133,
+		"Retirements 2024-2027": 206,
+		"Total new workers expected by 2027": 339
+	},
+	{
+		"Occupation ANZSCO4 Code": 2113,
+		"Occupation": "Photographers",
+		"Employment 2024": 4867,
+		"Annual employment growth rate (%) 2024-2027": 0.029,
+		"Employment growth 2024-2027": 432,
+		"Retirements 2024-2027": 245,
+		"Total new workers expected by 2027": 677
+	},
+	{
+		"Occupation ANZSCO4 Code": 2114,
+		"Occupation": "Visual arts and crafts professionals",
+		"Employment 2024": 3680,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 118,
+		"Retirements 2024-2027": 347,
+		"Total new workers expected by 2027": 465
+	},
+	{
+		"Occupation ANZSCO4 Code": 2121,
+		"Occupation": "Artistic directors, and media producers and presenters",
+		"Employment 2024": 2440,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 141,
+		"Retirements 2024-2027": 140,
+		"Total new workers expected by 2027": 280
+	},
+	{
+		"Occupation ANZSCO4 Code": 2122,
+		"Occupation": "Authors, and book and script editors",
+		"Employment 2024": 1738,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 51,
+		"Retirements 2024-2027": 172,
+		"Total new workers expected by 2027": 223
+	},
+	{
+		"Occupation ANZSCO4 Code": 2123,
+		"Occupation": "Film, television, radio and stage directors",
+		"Employment 2024": 4296,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 258,
+		"Retirements 2024-2027": 236,
+		"Total new workers expected by 2027": 494
+	},
+	{
+		"Occupation ANZSCO4 Code": 2124,
+		"Occupation": "Journalists and other writers",
+		"Employment 2024": 8737,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 514,
+		"Retirements 2024-2027": 505,
+		"Total new workers expected by 2027": 1019
+	},
+	{
+		"Occupation ANZSCO4 Code": 2211,
+		"Occupation": "Accountants",
+		"Employment 2024": 63173,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 4703,
+		"Retirements 2024-2027": 1992,
+		"Total new workers expected by 2027": 6695
+	},
+	{
+		"Occupation ANZSCO4 Code": 2212,
+		"Occupation": "Auditors, company secretaries and corporate treasurers",
+		"Employment 2024": 9514,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 735,
+		"Retirements 2024-2027": 341,
+		"Total new workers expected by 2027": 1076
+	},
+	{
+		"Occupation ANZSCO4 Code": 2221,
+		"Occupation": "Financial brokers",
+		"Employment 2024": 13535,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 758,
+		"Retirements 2024-2027": 764,
+		"Total new workers expected by 2027": 1522
+	},
+	{
+		"Occupation ANZSCO4 Code": 2222,
+		"Occupation": "Financial dealers",
+		"Employment 2024": 5094,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 343,
+		"Retirements 2024-2027": 280,
+		"Total new workers expected by 2027": 623
+	},
+	{
+		"Occupation ANZSCO4 Code": 2223,
+		"Occupation": "Financial investment advisers and managers",
+		"Employment 2024": 19045,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 1221,
+		"Retirements 2024-2027": 750,
+		"Total new workers expected by 2027": 1971
+	},
+	{
+		"Occupation ANZSCO4 Code": 2231,
+		"Occupation": "Human resource professionals",
+		"Employment 2024": 24684,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 1749,
+		"Retirements 2024-2027": 921,
+		"Total new workers expected by 2027": 2670
+	},
+	{
+		"Occupation ANZSCO4 Code": 2232,
+		"Occupation": "Ict trainers",
+		"Employment 2024": 968,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 66,
+		"Retirements 2024-2027": 87,
+		"Total new workers expected by 2027": 153
+	},
+	{
+		"Occupation ANZSCO4 Code": 2233,
+		"Occupation": "Training and development professionals",
+		"Employment 2024": 7886,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 545,
+		"Retirements 2024-2027": 488,
+		"Total new workers expected by 2027": 1033
+	},
+	{
+		"Occupation ANZSCO4 Code": 2241,
+		"Occupation": "Actuaries, mathematicians and statisticians",
+		"Employment 2024": 3250,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 235,
+		"Retirements 2024-2027": 108,
+		"Total new workers expected by 2027": 343
+	},
+	{
+		"Occupation ANZSCO4 Code": 2242,
+		"Occupation": "Archivists, curators and records managers",
+		"Employment 2024": 2014,
+		"Annual employment growth rate (%) 2024-2027": 0.034,
+		"Employment growth 2024-2027": 210,
+		"Retirements 2024-2027": 73,
+		"Total new workers expected by 2027": 284
+	},
+	{
+		"Occupation ANZSCO4 Code": 2243,
+		"Occupation": "Economists",
+		"Employment 2024": 1667,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 120,
+		"Retirements 2024-2027": 19,
+		"Total new workers expected by 2027": 138
+	},
+	{
+		"Occupation ANZSCO4 Code": 2244,
+		"Occupation": "Intelligence and policy analysts",
+		"Employment 2024": 7710,
+		"Annual employment growth rate (%) 2024-2027": 0.026,
+		"Employment growth 2024-2027": 615,
+		"Retirements 2024-2027": 154,
+		"Total new workers expected by 2027": 768
+	},
+	{
+		"Occupation ANZSCO4 Code": 2245,
+		"Occupation": "Land economists and valuers",
+		"Employment 2024": 3163,
+		"Annual employment growth rate (%) 2024-2027": 0.039,
+		"Employment growth 2024-2027": 386,
+		"Retirements 2024-2027": 74,
+		"Total new workers expected by 2027": 460
+	},
+	{
+		"Occupation ANZSCO4 Code": 2246,
+		"Occupation": "Librarians",
+		"Employment 2024": 4739,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 83,
+		"Retirements 2024-2027": 144,
+		"Total new workers expected by 2027": 228
+	},
+	{
+		"Occupation ANZSCO4 Code": 2247,
+		"Occupation": "Management and organisation analysts",
+		"Employment 2024": 34731,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 2575,
+		"Retirements 2024-2027": 486,
+		"Total new workers expected by 2027": 3060
+	},
+	{
+		"Occupation ANZSCO4 Code": 2249,
+		"Occupation": "Other information and organisation professionals",
+		"Employment 2024": 18533,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 1350,
+		"Retirements 2024-2027": 2788,
+		"Total new workers expected by 2027": 4138
+	},
+	{
+		"Occupation ANZSCO4 Code": 2251,
+		"Occupation": "Advertising and marketing professionals",
+		"Employment 2024": 27130,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 1897,
+		"Retirements 2024-2027": 811,
+		"Total new workers expected by 2027": 2708
+	},
+	{
+		"Occupation ANZSCO4 Code": 2252,
+		"Occupation": "Ict sales professionals",
+		"Employment 2024": 5286,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 389,
+		"Retirements 2024-2027": 206,
+		"Total new workers expected by 2027": 595
+	},
+	{
+		"Occupation ANZSCO4 Code": 2253,
+		"Occupation": "Public relations professionals",
+		"Employment 2024": 7611,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 580,
+		"Retirements 2024-2027": 272,
+		"Total new workers expected by 2027": 852
+	},
+	{
+		"Occupation ANZSCO4 Code": 2254,
+		"Occupation": "Technical sales representatives",
+		"Employment 2024": 7797,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 308,
+		"Retirements 2024-2027": 342,
+		"Total new workers expected by 2027": 650
+	},
+	{
+		"Occupation ANZSCO4 Code": 2311,
+		"Occupation": "Air transport professionals",
+		"Employment 2024": 3890,
+		"Annual employment growth rate (%) 2024-2027": 0.017,
+		"Employment growth 2024-2027": 206,
+		"Retirements 2024-2027": 286,
+		"Total new workers expected by 2027": 492
+	},
+	{
+		"Occupation ANZSCO4 Code": 2312,
+		"Occupation": "Marine transport professionals",
+		"Employment 2024": 1296,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 51,
+		"Retirements 2024-2027": 132,
+		"Total new workers expected by 2027": 183
+	},
+	{
+		"Occupation ANZSCO4 Code": 2321,
+		"Occupation": "Architects and landscape architects",
+		"Employment 2024": 11381,
+		"Annual employment growth rate (%) 2024-2027": 0.03,
+		"Employment growth 2024-2027": 1054,
+		"Retirements 2024-2027": 516,
+		"Total new workers expected by 2027": 1570
+	},
+	{
+		"Occupation ANZSCO4 Code": 2322,
+		"Occupation": "Surveyors and spatial scientists",
+		"Employment 2024": 4325,
+		"Annual employment growth rate (%) 2024-2027": 0.033,
+		"Employment growth 2024-2027": 446,
+		"Retirements 2024-2027": 220,
+		"Total new workers expected by 2027": 665
+	},
+	{
+		"Occupation ANZSCO4 Code": 2323,
+		"Occupation": "Fashion, industrial and jewellery designers",
+		"Employment 2024": 5129,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 242,
+		"Retirements 2024-2027": 148,
+		"Total new workers expected by 2027": 390
+	},
+	{
+		"Occupation ANZSCO4 Code": 2324,
+		"Occupation": "Graphic and web designers, and illustrators",
+		"Employment 2024": 14871,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 901,
+		"Retirements 2024-2027": 283,
+		"Total new workers expected by 2027": 1184
+	},
+	{
+		"Occupation ANZSCO4 Code": 2325,
+		"Occupation": "Interior designers",
+		"Employment 2024": 6213,
+		"Annual employment growth rate (%) 2024-2027": 0.029,
+		"Employment growth 2024-2027": 561,
+		"Retirements 2024-2027": 253,
+		"Total new workers expected by 2027": 814
+	},
+	{
+		"Occupation ANZSCO4 Code": 2326,
+		"Occupation": "Urban and regional planners",
+		"Employment 2024": 5205,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 385,
+		"Retirements 2024-2027": 206,
+		"Total new workers expected by 2027": 591
+	},
+	{
+		"Occupation ANZSCO4 Code": 2331,
+		"Occupation": "Chemical and materials engineers",
+		"Employment 2024": 1214,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 85,
+		"Retirements 2024-2027": 67,
+		"Total new workers expected by 2027": 152
+	},
+	{
+		"Occupation ANZSCO4 Code": 2332,
+		"Occupation": "Civil engineering professionals",
+		"Employment 2024": 25060,
+		"Annual employment growth rate (%) 2024-2027": 0.042,
+		"Employment growth 2024-2027": 3286,
+		"Retirements 2024-2027": 1294,
+		"Total new workers expected by 2027": 4580
+	},
+	{
+		"Occupation ANZSCO4 Code": 2333,
+		"Occupation": "Electrical engineers",
+		"Employment 2024": 6803,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 561,
+		"Retirements 2024-2027": 384,
+		"Total new workers expected by 2027": 945
+	},
+	{
+		"Occupation ANZSCO4 Code": 2334,
+		"Occupation": "Electronics engineers",
+		"Employment 2024": 2314,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 140,
+		"Retirements 2024-2027": 123,
+		"Total new workers expected by 2027": 263
+	},
+	{
+		"Occupation ANZSCO4 Code": 2335,
+		"Occupation": "Industrial, mechanical and production engineers",
+		"Employment 2024": 13426,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 815,
+		"Retirements 2024-2027": 659,
+		"Total new workers expected by 2027": 1474
+	},
+	{
+		"Occupation ANZSCO4 Code": 2336,
+		"Occupation": "Mining engineers",
+		"Employment 2024": 756,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 66,
+		"Retirements 2024-2027": 73,
+		"Total new workers expected by 2027": 139
+	},
+	{
+		"Occupation ANZSCO4 Code": 2339,
+		"Occupation": "Other engineering professionals",
+		"Employment 2024": 4895,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 367,
+		"Retirements 2024-2027": 383,
+		"Total new workers expected by 2027": 750
+	},
+	{
+		"Occupation ANZSCO4 Code": 2341,
+		"Occupation": "Agricultural and forestry scientists",
+		"Employment 2024": 1958,
+		"Annual employment growth rate (%) 2024-2027": 0.012,
+		"Employment growth 2024-2027": 74,
+		"Retirements 2024-2027": 79,
+		"Total new workers expected by 2027": 153
+	},
+	{
+		"Occupation ANZSCO4 Code": 2342,
+		"Occupation": "Chemists, and food and wine scientists",
+		"Employment 2024": 4460,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 130,
+		"Retirements 2024-2027": 155,
+		"Total new workers expected by 2027": 286
+	},
+	{
+		"Occupation ANZSCO4 Code": 2343,
+		"Occupation": "Environmental scientists",
+		"Employment 2024": 5344,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 330,
+		"Retirements 2024-2027": 184,
+		"Total new workers expected by 2027": 514
+	},
+	{
+		"Occupation ANZSCO4 Code": 2344,
+		"Occupation": "Geologists, geophysicists and hydrogeologists",
+		"Employment 2024": 1041,
+		"Annual employment growth rate (%) 2024-2027": 0.031,
+		"Employment growth 2024-2027": 98,
+		"Retirements 2024-2027": 67,
+		"Total new workers expected by 2027": 166
+	},
+	{
+		"Occupation ANZSCO4 Code": 2345,
+		"Occupation": "Life scientists",
+		"Employment 2024": 3154,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 212,
+		"Retirements 2024-2027": 80,
+		"Total new workers expected by 2027": 292
+	},
+	{
+		"Occupation ANZSCO4 Code": 2346,
+		"Occupation": "Medical laboratory scientists",
+		"Employment 2024": 9678,
+		"Annual employment growth rate (%) 2024-2027": 0.039,
+		"Employment growth 2024-2027": 1188,
+		"Retirements 2024-2027": 352,
+		"Total new workers expected by 2027": 1540
+	},
+	{
+		"Occupation ANZSCO4 Code": 2347,
+		"Occupation": "Veterinarians",
+		"Employment 2024": 4441,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 328,
+		"Retirements 2024-2027": 202,
+		"Total new workers expected by 2027": 530
+	},
+	{
+		"Occupation ANZSCO4 Code": 2349,
+		"Occupation": "Other natural and physical science professionals",
+		"Employment 2024": 2196,
+		"Annual employment growth rate (%) 2024-2027": 0.037,
+		"Employment growth 2024-2027": 251,
+		"Retirements 2024-2027": 105,
+		"Total new workers expected by 2027": 356
+	},
+	{
+		"Occupation ANZSCO4 Code": 2411,
+		"Occupation": "Early childhood (pre-primary school) teachers",
+		"Employment 2024": 7944,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 649,
+		"Retirements 2024-2027": 450,
+		"Total new workers expected by 2027": 1099
+	},
+	{
+		"Occupation ANZSCO4 Code": 2412,
+		"Occupation": "Primary school teachers",
+		"Employment 2024": 46998,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 3322,
+		"Retirements 2024-2027": 3277,
+		"Total new workers expected by 2027": 6599
+	},
+	{
+		"Occupation ANZSCO4 Code": 2413,
+		"Occupation": "Middle school teachers \\ intermediate school teachers",
+		"Employment 2024": 957,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 52,
+		"Retirements 2024-2027": 94,
+		"Total new workers expected by 2027": 146
+	},
+	{
+		"Occupation ANZSCO4 Code": 2414,
+		"Occupation": "Secondary school teachers",
+		"Employment 2024": 45323,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 2560,
+		"Retirements 2024-2027": 3326,
+		"Total new workers expected by 2027": 5886
+	},
+	{
+		"Occupation ANZSCO4 Code": 2415,
+		"Occupation": "Special education teachers",
+		"Employment 2024": 6463,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 399,
+		"Retirements 2024-2027": 656,
+		"Total new workers expected by 2027": 1055
+	},
+	{
+		"Occupation ANZSCO4 Code": 2421,
+		"Occupation": "University lecturers and tutors",
+		"Employment 2024": 20535,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 243,
+		"Retirements 2024-2027": 1704,
+		"Total new workers expected by 2027": 1947
+	},
+	{
+		"Occupation ANZSCO4 Code": 2422,
+		"Occupation": "Vocational education teachers \\ polytechnic teachers",
+		"Employment 2024": 9139,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 255,
+		"Retirements 2024-2027": 854,
+		"Total new workers expected by 2027": 1109
+	},
+	{
+		"Occupation ANZSCO4 Code": 2491,
+		"Occupation": "Education advisers and reviewers",
+		"Employment 2024": 8816,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 557,
+		"Retirements 2024-2027": 1138,
+		"Total new workers expected by 2027": 1695
+	},
+	{
+		"Occupation ANZSCO4 Code": 2492,
+		"Occupation": "Private tutors and teachers",
+		"Employment 2024": 14513,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 827,
+		"Retirements 2024-2027": 1213,
+		"Total new workers expected by 2027": 2040
+	},
+	{
+		"Occupation ANZSCO4 Code": 2493,
+		"Occupation": "Teachers of english to speakers of other languages",
+		"Employment 2024": 1051,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 62,
+		"Retirements 2024-2027": 112,
+		"Total new workers expected by 2027": 173
+	},
+	{
+		"Occupation ANZSCO4 Code": 2511,
+		"Occupation": "Nutrition professionals",
+		"Employment 2024": 2160,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 124,
+		"Retirements 2024-2027": 37,
+		"Total new workers expected by 2027": 161
+	},
+	{
+		"Occupation ANZSCO4 Code": 2512,
+		"Occupation": "Medical imaging professionals",
+		"Employment 2024": 6567,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 461,
+		"Retirements 2024-2027": 341,
+		"Total new workers expected by 2027": 803
+	},
+	{
+		"Occupation ANZSCO4 Code": 2513,
+		"Occupation": "Occupational and environmental health professionals",
+		"Employment 2024": 7736,
+		"Annual employment growth rate (%) 2024-2027": -0.005,
+		"Employment growth 2024-2027": -105,
+		"Retirements 2024-2027": 434,
+		"Total new workers expected by 2027": 329
+	},
+	{
+		"Occupation ANZSCO4 Code": 2514,
+		"Occupation": "Optometrists and orthoptists",
+		"Employment 2024": 2731,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 185,
+		"Retirements 2024-2027": 96,
+		"Total new workers expected by 2027": 282
+	},
+	{
+		"Occupation ANZSCO4 Code": 2515,
+		"Occupation": "Pharmacists",
+		"Employment 2024": 11089,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 669,
+		"Retirements 2024-2027": 547,
+		"Total new workers expected by 2027": 1216
+	},
+	{
+		"Occupation ANZSCO4 Code": 2519,
+		"Occupation": "Other health diagnostic and promotion professionals",
+		"Employment 2024": 3188,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 134,
+		"Retirements 2024-2027": 114,
+		"Total new workers expected by 2027": 248
+	},
+	{
+		"Occupation ANZSCO4 Code": 2521,
+		"Occupation": "Chiropractors and osteopaths",
+		"Employment 2024": 3620,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 237,
+		"Retirements 2024-2027": 86,
+		"Total new workers expected by 2027": 323
+	},
+	{
+		"Occupation ANZSCO4 Code": 2522,
+		"Occupation": "Complementary health therapists",
+		"Employment 2024": 2448,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 146,
+		"Retirements 2024-2027": 115,
+		"Total new workers expected by 2027": 260
+	},
+	{
+		"Occupation ANZSCO4 Code": 2523,
+		"Occupation": "Dental practitioners",
+		"Employment 2024": 6015,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 407,
+		"Retirements 2024-2027": 218,
+		"Total new workers expected by 2027": 625
+	},
+	{
+		"Occupation ANZSCO4 Code": 2524,
+		"Occupation": "Occupational therapists",
+		"Employment 2024": 7077,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 412,
+		"Retirements 2024-2027": 193,
+		"Total new workers expected by 2027": 605
+	},
+	{
+		"Occupation ANZSCO4 Code": 2525,
+		"Occupation": "Physiotherapists",
+		"Employment 2024": 8923,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 561,
+		"Retirements 2024-2027": 276,
+		"Total new workers expected by 2027": 836
+	},
+	{
+		"Occupation ANZSCO4 Code": 2526,
+		"Occupation": "Podiatrists",
+		"Employment 2024": 2280,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 143,
+		"Retirements 2024-2027": 16,
+		"Total new workers expected by 2027": 158
+	},
+	{
+		"Occupation ANZSCO4 Code": 2527,
+		"Occupation": "Audiologists and speech pathologists \\ therapists",
+		"Employment 2024": 4594,
+		"Annual employment growth rate (%) 2024-2027": 0.017,
+		"Employment growth 2024-2027": 235,
+		"Retirements 2024-2027": 127,
+		"Total new workers expected by 2027": 363
+	},
+	{
+		"Occupation ANZSCO4 Code": 2531,
+		"Occupation": "General practitioners and resident medical officers",
+		"Employment 2024": 19570,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 1353,
+		"Retirements 2024-2027": 452,
+		"Total new workers expected by 2027": 1806
+	},
+	{
+		"Occupation ANZSCO4 Code": 2532,
+		"Occupation": "Anaesthetists",
+		"Employment 2024": 1652,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 129,
+		"Retirements 2024-2027": 45,
+		"Total new workers expected by 2027": 174
+	},
+	{
+		"Occupation ANZSCO4 Code": 2533,
+		"Occupation": "Specialist physicians",
+		"Employment 2024": 3610,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 271,
+		"Retirements 2024-2027": 71,
+		"Total new workers expected by 2027": 342
+	},
+	{
+		"Occupation ANZSCO4 Code": 2534,
+		"Occupation": "Psychiatrists",
+		"Employment 2024": 901,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 68,
+		"Retirements 2024-2027": 23,
+		"Total new workers expected by 2027": 91
+	},
+	{
+		"Occupation ANZSCO4 Code": 2535,
+		"Occupation": "Surgeons",
+		"Employment 2024": 2165,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 159,
+		"Retirements 2024-2027": 65,
+		"Total new workers expected by 2027": 224
+	},
+	{
+		"Occupation ANZSCO4 Code": 2539,
+		"Occupation": "Other medical practitioners",
+		"Employment 2024": 4115,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 302,
+		"Retirements 2024-2027": 72,
+		"Total new workers expected by 2027": 373
+	},
+	{
+		"Occupation ANZSCO4 Code": 2541,
+		"Occupation": "Midwives",
+		"Employment 2024": 4359,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 307,
+		"Retirements 2024-2027": 256,
+		"Total new workers expected by 2027": 564
+	},
+	{
+		"Occupation ANZSCO4 Code": 2542,
+		"Occupation": "Nurse educators and researchers",
+		"Employment 2024": 1930,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 96,
+		"Retirements 2024-2027": 108,
+		"Total new workers expected by 2027": 204
+	},
+	{
+		"Occupation ANZSCO4 Code": 2543,
+		"Occupation": "Nurse managers",
+		"Employment 2024": 5203,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 339,
+		"Retirements 2024-2027": 372,
+		"Total new workers expected by 2027": 711
+	},
+	{
+		"Occupation ANZSCO4 Code": 2544,
+		"Occupation": "Registered nurses",
+		"Employment 2024": 92205,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 5677,
+		"Retirements 2024-2027": 5614,
+		"Total new workers expected by 2027": 11291
+	},
+	{
+		"Occupation ANZSCO4 Code": 2611,
+		"Occupation": "Ict business and systems analysts",
+		"Employment 2024": 17233,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 1162,
+		"Retirements 2024-2027": 483,
+		"Total new workers expected by 2027": 1644
+	},
+	{
+		"Occupation ANZSCO4 Code": 2612,
+		"Occupation": "Multimedia specialists and web developers",
+		"Employment 2024": 6589,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 465,
+		"Retirements 2024-2027": 30,
+		"Total new workers expected by 2027": 495
+	},
+	{
+		"Occupation ANZSCO4 Code": 2613,
+		"Occupation": "Software and applications programmers",
+		"Employment 2024": 60960,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 4222,
+		"Retirements 2024-2027": 1536,
+		"Total new workers expected by 2027": 5758
+	},
+	{
+		"Occupation ANZSCO4 Code": 2621,
+		"Occupation": "Database and systems administrators, and ict security specialists",
+		"Employment 2024": 19408,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 1254,
+		"Retirements 2024-2027": 455,
+		"Total new workers expected by 2027": 1709
+	},
+	{
+		"Occupation ANZSCO4 Code": 2631,
+		"Occupation": "Computer network professionals",
+		"Employment 2024": 10182,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 627,
+		"Retirements 2024-2027": 171,
+		"Total new workers expected by 2027": 797
+	},
+	{
+		"Occupation ANZSCO4 Code": 2632,
+		"Occupation": "Ict support and test engineers",
+		"Employment 2024": 3884,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 247,
+		"Retirements 2024-2027": 45,
+		"Total new workers expected by 2027": 293
+	},
+	{
+		"Occupation ANZSCO4 Code": 2633,
+		"Occupation": "Telecommunications engineering professionals",
+		"Employment 2024": 6451,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 143,
+		"Retirements 2024-2027": 152,
+		"Total new workers expected by 2027": 295
+	},
+	{
+		"Occupation ANZSCO4 Code": 2711,
+		"Occupation": "Barristers",
+		"Employment 2024": 3123,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 142,
+		"Retirements 2024-2027": 229,
+		"Total new workers expected by 2027": 371
+	},
+	{
+		"Occupation ANZSCO4 Code": 2712,
+		"Occupation": "Judicial and other legal professionals",
+		"Employment 2024": 3279,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 153,
+		"Retirements 2024-2027": 216,
+		"Total new workers expected by 2027": 369
+	},
+	{
+		"Occupation ANZSCO4 Code": 2713,
+		"Occupation": "Solicitors",
+		"Employment 2024": 22761,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 962,
+		"Retirements 2024-2027": 788,
+		"Total new workers expected by 2027": 1750
+	},
+	{
+		"Occupation ANZSCO4 Code": 2721,
+		"Occupation": "Counsellors",
+		"Employment 2024": 10001,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 498,
+		"Retirements 2024-2027": 731,
+		"Total new workers expected by 2027": 1229
+	},
+	{
+		"Occupation ANZSCO4 Code": 2722,
+		"Occupation": "Ministers of religion",
+		"Employment 2024": 3499,
+		"Annual employment growth rate (%) 2024-2027": -0.001,
+		"Employment growth 2024-2027": -6,
+		"Retirements 2024-2027": 387,
+		"Total new workers expected by 2027": 381
+	},
+	{
+		"Occupation ANZSCO4 Code": 2723,
+		"Occupation": "Psychologists",
+		"Employment 2024": 11424,
+		"Annual employment growth rate (%) 2024-2027": 0.031,
+		"Employment growth 2024-2027": 1086,
+		"Retirements 2024-2027": 655,
+		"Total new workers expected by 2027": 1741
+	},
+	{
+		"Occupation ANZSCO4 Code": 2724,
+		"Occupation": "Social professionals",
+		"Employment 2024": 3756,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 173,
+		"Retirements 2024-2027": 294,
+		"Total new workers expected by 2027": 467
+	},
+	{
+		"Occupation ANZSCO4 Code": 2725,
+		"Occupation": "Social workers",
+		"Employment 2024": 13556,
+		"Annual employment growth rate (%) 2024-2027": 0.026,
+		"Employment growth 2024-2027": 1071,
+		"Retirements 2024-2027": 697,
+		"Total new workers expected by 2027": 1768
+	},
+	{
+		"Occupation ANZSCO4 Code": 2726,
+		"Occupation": "Welfare, recreation and community arts workers",
+		"Employment 2024": 10199,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 665,
+		"Retirements 2024-2027": 562,
+		"Total new workers expected by 2027": 1226
+	},
+	{
+		"Occupation ANZSCO4 Code": 3111,
+		"Occupation": "Agricultural technicians",
+		"Employment 2024": 632,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": 0,
+		"Retirements 2024-2027": 18,
+		"Total new workers expected by 2027": 18
+	},
+	{
+		"Occupation ANZSCO4 Code": 3112,
+		"Occupation": "Medical technicians",
+		"Employment 2024": 11460,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 868,
+		"Retirements 2024-2027": 594,
+		"Total new workers expected by 2027": 1462
+	},
+	{
+		"Occupation ANZSCO4 Code": 3113,
+		"Occupation": "Primary products inspectors",
+		"Employment 2024": 1078,
+		"Annual employment growth rate (%) 2024-2027": -0.009,
+		"Employment growth 2024-2027": -29,
+		"Retirements 2024-2027": 93,
+		"Total new workers expected by 2027": 64
+	},
+	{
+		"Occupation ANZSCO4 Code": 3114,
+		"Occupation": "Science technicians",
+		"Employment 2024": 5374,
+		"Annual employment growth rate (%) 2024-2027": -0.001,
+		"Employment growth 2024-2027": -9,
+		"Retirements 2024-2027": 384,
+		"Total new workers expected by 2027": 374
+	},
+	{
+		"Occupation ANZSCO4 Code": 3121,
+		"Occupation": "Architectural, building and surveying technicians",
+		"Employment 2024": 22073,
+		"Annual employment growth rate (%) 2024-2027": 0.038,
+		"Employment growth 2024-2027": 2604,
+		"Retirements 2024-2027": 1129,
+		"Total new workers expected by 2027": 3733
+	},
+	{
+		"Occupation ANZSCO4 Code": 3122,
+		"Occupation": "Civil engineering draftspersons and technicians",
+		"Employment 2024": 3660,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 175,
+		"Retirements 2024-2027": 197,
+		"Total new workers expected by 2027": 372
+	},
+	{
+		"Occupation ANZSCO4 Code": 3123,
+		"Occupation": "Electrical engineering draftspersons and technicians",
+		"Employment 2024": 1858,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 27,
+		"Retirements 2024-2027": 125,
+		"Total new workers expected by 2027": 151
+	},
+	{
+		"Occupation ANZSCO4 Code": 3124,
+		"Occupation": "Electronic engineering draftspersons and technicians",
+		"Employment 2024": 934,
+		"Annual employment growth rate (%) 2024-2027": -0.005,
+		"Employment growth 2024-2027": -15,
+		"Retirements 2024-2027": 63,
+		"Total new workers expected by 2027": 48
+	},
+	{
+		"Occupation ANZSCO4 Code": 3125,
+		"Occupation": "Mechanical engineering draftspersons and technicians",
+		"Employment 2024": 1453,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 7,
+		"Retirements 2024-2027": 89,
+		"Total new workers expected by 2027": 97
+	},
+	{
+		"Occupation ANZSCO4 Code": 3126,
+		"Occupation": "Safety inspectors",
+		"Employment 2024": 1411,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 36,
+		"Retirements 2024-2027": 120,
+		"Total new workers expected by 2027": 156
+	},
+	{
+		"Occupation ANZSCO4 Code": 3129,
+		"Occupation": "Other building and engineering technicians",
+		"Employment 2024": 3542,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 21,
+		"Retirements 2024-2027": 288,
+		"Total new workers expected by 2027": 310
+	},
+	{
+		"Occupation ANZSCO4 Code": 3131,
+		"Occupation": "Ict support technicians",
+		"Employment 2024": 19151,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 321,
+		"Retirements 2024-2027": 446,
+		"Total new workers expected by 2027": 767
+	},
+	{
+		"Occupation ANZSCO4 Code": 3132,
+		"Occupation": "Telecommunications technical specialists",
+		"Employment 2024": 1980,
+		"Annual employment growth rate (%) 2024-2027": -0.005,
+		"Employment growth 2024-2027": -27,
+		"Retirements 2024-2027": 120,
+		"Total new workers expected by 2027": 92
+	},
+	{
+		"Occupation ANZSCO4 Code": 3211,
+		"Occupation": "Automotive electricians",
+		"Employment 2024": 1482,
+		"Annual employment growth rate (%) 2024-2027": -0.001,
+		"Employment growth 2024-2027": -5,
+		"Retirements 2024-2027": 70,
+		"Total new workers expected by 2027": 65
+	},
+	{
+		"Occupation ANZSCO4 Code": 3212,
+		"Occupation": "Motor mechanics",
+		"Employment 2024": 28182,
+		"Annual employment growth rate (%) 2024-2027": -0.001,
+		"Employment growth 2024-2027": -126,
+		"Retirements 2024-2027": 1412,
+		"Total new workers expected by 2027": 1287
+	},
+	{
+		"Occupation ANZSCO4 Code": 3221,
+		"Occupation": "Metal casting, forging and finishing trades workers",
+		"Employment 2024": 810,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 17,
+		"Retirements 2024-2027": 23,
+		"Total new workers expected by 2027": 40
+	},
+	{
+		"Occupation ANZSCO4 Code": 3222,
+		"Occupation": "Sheetmetal trades workers",
+		"Employment 2024": 1051,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 31,
+		"Retirements 2024-2027": 36,
+		"Total new workers expected by 2027": 67
+	},
+	{
+		"Occupation ANZSCO4 Code": 3223,
+		"Occupation": "Structural steel and welding trades workers",
+		"Employment 2024": 14351,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 593,
+		"Retirements 2024-2027": 909,
+		"Total new workers expected by 2027": 1501
+	},
+	{
+		"Occupation ANZSCO4 Code": 3231,
+		"Occupation": "Aircraft maintenance engineers",
+		"Employment 2024": 2422,
+		"Annual employment growth rate (%) 2024-2027": -0.029,
+		"Employment growth 2024-2027": -206,
+		"Retirements 2024-2027": 324,
+		"Total new workers expected by 2027": 118
+	},
+	{
+		"Occupation ANZSCO4 Code": 3232,
+		"Occupation": "Metal fitters and machinists",
+		"Employment 2024": 20293,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 272,
+		"Retirements 2024-2027": 1627,
+		"Total new workers expected by 2027": 1899
+	},
+	{
+		"Occupation ANZSCO4 Code": 3233,
+		"Occupation": "Precision metal trades workers",
+		"Employment 2024": 2625,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 58,
+		"Retirements 2024-2027": 133,
+		"Total new workers expected by 2027": 191
+	},
+	{
+		"Occupation ANZSCO4 Code": 3234,
+		"Occupation": "Toolmakers and engineering patternmakers",
+		"Employment 2024": 1238,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 17,
+		"Retirements 2024-2027": 11,
+		"Total new workers expected by 2027": 28
+	},
+	{
+		"Occupation ANZSCO4 Code": 3241,
+		"Occupation": "Panelbeaters",
+		"Employment 2024": 3031,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -29,
+		"Retirements 2024-2027": 136,
+		"Total new workers expected by 2027": 107
+	},
+	{
+		"Occupation ANZSCO4 Code": 3242,
+		"Occupation": "Vehicle body builders and trimmers",
+		"Employment 2024": 1818,
+		"Annual employment growth rate (%) 2024-2027": -0.007,
+		"Employment growth 2024-2027": -38,
+		"Retirements 2024-2027": 113,
+		"Total new workers expected by 2027": 75
+	},
+	{
+		"Occupation ANZSCO4 Code": 3243,
+		"Occupation": "Vehicle painters",
+		"Employment 2024": 2608,
+		"Annual employment growth rate (%) 2024-2027": -0.002,
+		"Employment growth 2024-2027": -12,
+		"Retirements 2024-2027": 55,
+		"Total new workers expected by 2027": 43
+	},
+	{
+		"Occupation ANZSCO4 Code": 3311,
+		"Occupation": "Bricklayers and stonemasons",
+		"Employment 2024": 9499,
+		"Annual employment growth rate (%) 2024-2027": 0.037,
+		"Employment growth 2024-2027": 1080,
+		"Retirements 2024-2027": 423,
+		"Total new workers expected by 2027": 1503
+	},
+	{
+		"Occupation ANZSCO4 Code": 3312,
+		"Occupation": "Carpenters and joiners",
+		"Employment 2024": 42921,
+		"Annual employment growth rate (%) 2024-2027": 0.035,
+		"Employment growth 2024-2027": 4675,
+		"Retirements 2024-2027": 1399,
+		"Total new workers expected by 2027": 6075
+	},
+	{
+		"Occupation ANZSCO4 Code": 3321,
+		"Occupation": "Floor finishers",
+		"Employment 2024": 3280,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 235,
+		"Retirements 2024-2027": 185,
+		"Total new workers expected by 2027": 421
+	},
+	{
+		"Occupation ANZSCO4 Code": 3322,
+		"Occupation": "Painting trades workers",
+		"Employment 2024": 16375,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 1378,
+		"Retirements 2024-2027": 1544,
+		"Total new workers expected by 2027": 2922
+	},
+	{
+		"Occupation ANZSCO4 Code": 3331,
+		"Occupation": "Glaziers",
+		"Employment 2024": 1759,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 145,
+		"Retirements 2024-2027": 35,
+		"Total new workers expected by 2027": 181
+	},
+	{
+		"Occupation ANZSCO4 Code": 3332,
+		"Occupation": "Plasterers",
+		"Employment 2024": 7969,
+		"Annual employment growth rate (%) 2024-2027": 0.032,
+		"Employment growth 2024-2027": 794,
+		"Retirements 2024-2027": 275,
+		"Total new workers expected by 2027": 1069
+	},
+	{
+		"Occupation ANZSCO4 Code": 3333,
+		"Occupation": "Roof tilers",
+		"Employment 2024": 2263,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 196,
+		"Retirements 2024-2027": 41,
+		"Total new workers expected by 2027": 237
+	},
+	{
+		"Occupation ANZSCO4 Code": 3334,
+		"Occupation": "Wall and floor tilers",
+		"Employment 2024": 2865,
+		"Annual employment growth rate (%) 2024-2027": 0.034,
+		"Employment growth 2024-2027": 303,
+		"Retirements 2024-2027": 117,
+		"Total new workers expected by 2027": 420
+	},
+	{
+		"Occupation ANZSCO4 Code": 3341,
+		"Occupation": "Plumbers",
+		"Employment 2024": 33457,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 2562,
+		"Retirements 2024-2027": 1000,
+		"Total new workers expected by 2027": 3561
+	},
+	{
+		"Occupation ANZSCO4 Code": 3411,
+		"Occupation": "Electricians",
+		"Employment 2024": 42347,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 3223,
+		"Retirements 2024-2027": 1623,
+		"Total new workers expected by 2027": 4846
+	},
+	{
+		"Occupation ANZSCO4 Code": 3421,
+		"Occupation": "Airconditioning and refrigeration mechanics",
+		"Employment 2024": 4399,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 136,
+		"Retirements 2024-2027": 120,
+		"Total new workers expected by 2027": 257
+	},
+	{
+		"Occupation ANZSCO4 Code": 3422,
+		"Occupation": "Electrical distribution trades workers",
+		"Employment 2024": 2583,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 128,
+		"Retirements 2024-2027": 106,
+		"Total new workers expected by 2027": 234
+	},
+	{
+		"Occupation ANZSCO4 Code": 3423,
+		"Occupation": "Electronics trades workers",
+		"Employment 2024": 6790,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 172,
+		"Retirements 2024-2027": 232,
+		"Total new workers expected by 2027": 404
+	},
+	{
+		"Occupation ANZSCO4 Code": 3424,
+		"Occupation": "Telecommunications trades workers",
+		"Employment 2024": 3780,
+		"Annual employment growth rate (%) 2024-2027": -0.004,
+		"Employment growth 2024-2027": -48,
+		"Retirements 2024-2027": 218,
+		"Total new workers expected by 2027": 170
+	},
+	{
+		"Occupation ANZSCO4 Code": 3511,
+		"Occupation": "Bakers and pastrycooks",
+		"Employment 2024": 8250,
+		"Annual employment growth rate (%) 2024-2027": -0.008,
+		"Employment growth 2024-2027": -208,
+		"Retirements 2024-2027": 300,
+		"Total new workers expected by 2027": 92
+	},
+	{
+		"Occupation ANZSCO4 Code": 3512,
+		"Occupation": "Butchers and smallgoods makers",
+		"Employment 2024": 4054,
+		"Annual employment growth rate (%) 2024-2027": -0.01,
+		"Employment growth 2024-2027": -121,
+		"Retirements 2024-2027": 277,
+		"Total new workers expected by 2027": 156
+	},
+	{
+		"Occupation ANZSCO4 Code": 3513,
+		"Occupation": "Chefs",
+		"Employment 2024": 32438,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 468,
+		"Retirements 2024-2027": 1426,
+		"Total new workers expected by 2027": 1895
+	},
+	{
+		"Occupation ANZSCO4 Code": 3514,
+		"Occupation": "Cooks",
+		"Employment 2024": 8427,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 210,
+		"Retirements 2024-2027": 597,
+		"Total new workers expected by 2027": 807
+	},
+	{
+		"Occupation ANZSCO4 Code": 3611,
+		"Occupation": "Animal attendants and trainers",
+		"Employment 2024": 5170,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 47,
+		"Retirements 2024-2027": 321,
+		"Total new workers expected by 2027": 368
+	},
+	{
+		"Occupation ANZSCO4 Code": 3612,
+		"Occupation": "Shearers",
+		"Employment 2024": 613,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": 0,
+		"Retirements 2024-2027": 70,
+		"Total new workers expected by 2027": 70
+	},
+	{
+		"Occupation ANZSCO4 Code": 3613,
+		"Occupation": "Veterinary nurses",
+		"Employment 2024": 3392,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 188,
+		"Retirements 2024-2027": 105,
+		"Total new workers expected by 2027": 293
+	},
+	{
+		"Occupation ANZSCO4 Code": 3621,
+		"Occupation": "Florists",
+		"Employment 2024": 2162,
+		"Annual employment growth rate (%) 2024-2027": -0.002,
+		"Employment growth 2024-2027": -10,
+		"Retirements 2024-2027": 128,
+		"Total new workers expected by 2027": 118
+	},
+	{
+		"Occupation ANZSCO4 Code": 3622,
+		"Occupation": "Gardeners",
+		"Employment 2024": 27568,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 735,
+		"Retirements 2024-2027": 1598,
+		"Total new workers expected by 2027": 2333
+	},
+	{
+		"Occupation ANZSCO4 Code": 3623,
+		"Occupation": "Greenkeepers",
+		"Employment 2024": 1943,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": 0,
+		"Retirements 2024-2027": 120,
+		"Total new workers expected by 2027": 119
+	},
+	{
+		"Occupation ANZSCO4 Code": 3624,
+		"Occupation": "Nurserypersons",
+		"Employment 2024": 1467,
+		"Annual employment growth rate (%) 2024-2027": -0.01,
+		"Employment growth 2024-2027": -45,
+		"Retirements 2024-2027": 111,
+		"Total new workers expected by 2027": 65
+	},
+	{
+		"Occupation ANZSCO4 Code": 3911,
+		"Occupation": "Hairdressers",
+		"Employment 2024": 15327,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 254,
+		"Retirements 2024-2027": 630,
+		"Total new workers expected by 2027": 884
+	},
+	{
+		"Occupation ANZSCO4 Code": 3921,
+		"Occupation": "Print finishers and screen printers",
+		"Employment 2024": 1724,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -16,
+		"Retirements 2024-2027": 124,
+		"Total new workers expected by 2027": 108
+	},
+	{
+		"Occupation ANZSCO4 Code": 3922,
+		"Occupation": "Graphic pre-press trades workers",
+		"Employment 2024": 850,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 4,
+		"Retirements 2024-2027": 30,
+		"Total new workers expected by 2027": 35
+	},
+	{
+		"Occupation ANZSCO4 Code": 3923,
+		"Occupation": "Printers",
+		"Employment 2024": 4839,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -43,
+		"Retirements 2024-2027": 419,
+		"Total new workers expected by 2027": 376
+	},
+	{
+		"Occupation ANZSCO4 Code": 3931,
+		"Occupation": "Canvas and leather goods makers",
+		"Employment 2024": 1050,
+		"Annual employment growth rate (%) 2024-2027": -0.014,
+		"Employment growth 2024-2027": -42,
+		"Retirements 2024-2027": 102,
+		"Total new workers expected by 2027": 60
+	},
+	{
+		"Occupation ANZSCO4 Code": 3932,
+		"Occupation": "Clothing trades workers",
+		"Employment 2024": 1984,
+		"Annual employment growth rate (%) 2024-2027": -0.007,
+		"Employment growth 2024-2027": -41,
+		"Retirements 2024-2027": 285,
+		"Total new workers expected by 2027": 244
+	},
+	{
+		"Occupation ANZSCO4 Code": 3933,
+		"Occupation": "Upholsterers",
+		"Employment 2024": 800,
+		"Annual employment growth rate (%) 2024-2027": 0.001,
+		"Employment growth 2024-2027": 2,
+		"Retirements 2024-2027": 53,
+		"Total new workers expected by 2027": 55
+	},
+	{
+		"Occupation ANZSCO4 Code": 3941,
+		"Occupation": "Cabinetmakers",
+		"Employment 2024": 8557,
+		"Annual employment growth rate (%) 2024-2027": 0.028,
+		"Employment growth 2024-2027": 749,
+		"Retirements 2024-2027": 420,
+		"Total new workers expected by 2027": 1169
+	},
+	{
+		"Occupation ANZSCO4 Code": 3942,
+		"Occupation": "Wood machinists and other wood trades workers",
+		"Employment 2024": 1400,
+		"Annual employment growth rate (%) 2024-2027": 0.066,
+		"Employment growth 2024-2027": 295,
+		"Retirements 2024-2027": 90,
+		"Total new workers expected by 2027": 385
+	},
+	{
+		"Occupation ANZSCO4 Code": 3991,
+		"Occupation": "Boat builders and shipwrights",
+		"Employment 2024": 1362,
+		"Annual employment growth rate (%) 2024-2027": -0.006,
+		"Employment growth 2024-2027": -26,
+		"Retirements 2024-2027": 108,
+		"Total new workers expected by 2027": 83
+	},
+	{
+		"Occupation ANZSCO4 Code": 3992,
+		"Occupation": "Chemical, gas, petroleum and power generation plant operators",
+		"Employment 2024": 2524,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 30,
+		"Retirements 2024-2027": 263,
+		"Total new workers expected by 2027": 293
+	},
+	{
+		"Occupation ANZSCO4 Code": 3993,
+		"Occupation": "Gallery, library and museum technicians",
+		"Employment 2024": 1713,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 17,
+		"Retirements 2024-2027": 162,
+		"Total new workers expected by 2027": 179
+	},
+	{
+		"Occupation ANZSCO4 Code": 3994,
+		"Occupation": "Jewellers",
+		"Employment 2024": 942,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 13,
+		"Retirements 2024-2027": 104,
+		"Total new workers expected by 2027": 117
+	},
+	{
+		"Occupation ANZSCO4 Code": 3995,
+		"Occupation": "Performing arts technicians",
+		"Employment 2024": 3981,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 66,
+		"Retirements 2024-2027": 210,
+		"Total new workers expected by 2027": 276
+	},
+	{
+		"Occupation ANZSCO4 Code": 3996,
+		"Occupation": "Signwriters",
+		"Employment 2024": 2360,
+		"Annual employment growth rate (%) 2024-2027": 0.017,
+		"Employment growth 2024-2027": 126,
+		"Retirements 2024-2027": 148,
+		"Total new workers expected by 2027": 273
+	},
+	{
+		"Occupation ANZSCO4 Code": 3999,
+		"Occupation": "Other miscellaneous technicians and trades workers",
+		"Employment 2024": 7432,
+		"Annual employment growth rate (%) 2024-2027": 0.029,
+		"Employment growth 2024-2027": 662,
+		"Retirements 2024-2027": 531,
+		"Total new workers expected by 2027": 1193
+	},
+	{
+		"Occupation ANZSCO4 Code": 4111,
+		"Occupation": "Ambulance officers and paramedics",
+		"Employment 2024": 6532,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 373,
+		"Retirements 2024-2027": 234,
+		"Total new workers expected by 2027": 607
+	},
+	{
+		"Occupation ANZSCO4 Code": 4112,
+		"Occupation": "Dental hygienists, technicians and therapists",
+		"Employment 2024": 2781,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 46,
+		"Retirements 2024-2027": 125,
+		"Total new workers expected by 2027": 172
+	},
+	{
+		"Occupation ANZSCO4 Code": 4113,
+		"Occupation": "Diversional therapists",
+		"Employment 2024": 1350,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 36,
+		"Retirements 2024-2027": 135,
+		"Total new workers expected by 2027": 171
+	},
+	{
+		"Occupation ANZSCO4 Code": 4114,
+		"Occupation": "Enrolled and mothercraft nurses",
+		"Employment 2024": 4606,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 195,
+		"Retirements 2024-2027": 223,
+		"Total new workers expected by 2027": 418
+	},
+	{
+		"Occupation ANZSCO4 Code": 4115,
+		"Occupation": "Indigenous health workers",
+		"Employment 2024": 743,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 37,
+		"Retirements 2024-2027": 29,
+		"Total new workers expected by 2027": 66
+	},
+	{
+		"Occupation ANZSCO4 Code": 4116,
+		"Occupation": "Massage therapists",
+		"Employment 2024": 5847,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 341,
+		"Retirements 2024-2027": 352,
+		"Total new workers expected by 2027": 693
+	},
+	{
+		"Occupation ANZSCO4 Code": 4117,
+		"Occupation": "Welfare support workers",
+		"Employment 2024": 20968,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 126,
+		"Retirements 2024-2027": 1049,
+		"Total new workers expected by 2027": 1175
+	},
+	{
+		"Occupation ANZSCO4 Code": 4211,
+		"Occupation": "Child carers",
+		"Employment 2024": 37860,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 2350,
+		"Retirements 2024-2027": 1467,
+		"Total new workers expected by 2027": 3817
+	},
+	{
+		"Occupation ANZSCO4 Code": 4221,
+		"Occupation": "Education aides",
+		"Employment 2024": 26875,
+		"Annual employment growth rate (%) 2024-2027": 0.001,
+		"Employment growth 2024-2027": 99,
+		"Retirements 2024-2027": 2269,
+		"Total new workers expected by 2027": 2369
+	},
+	{
+		"Occupation ANZSCO4 Code": 4231,
+		"Occupation": "Aged and disabled carers",
+		"Employment 2024": 69888,
+		"Annual employment growth rate (%) 2024-2027": 0.023,
+		"Employment growth 2024-2027": 4910,
+		"Retirements 2024-2027": 8258,
+		"Total new workers expected by 2027": 13167
+	},
+	{
+		"Occupation ANZSCO4 Code": 4232,
+		"Occupation": "Dental assistants",
+		"Employment 2024": 8899,
+		"Annual employment growth rate (%) 2024-2027": 0.036,
+		"Employment growth 2024-2027": 990,
+		"Retirements 2024-2027": 274,
+		"Total new workers expected by 2027": 1264
+	},
+	{
+		"Occupation ANZSCO4 Code": 4233,
+		"Occupation": "Nursing support and personal care workers",
+		"Employment 2024": 25166,
+		"Annual employment growth rate (%) 2024-2027": 0.026,
+		"Employment growth 2024-2027": 2047,
+		"Retirements 2024-2027": 2169,
+		"Total new workers expected by 2027": 4215
+	},
+	{
+		"Occupation ANZSCO4 Code": 4234,
+		"Occupation": "Special care workers",
+		"Employment 2024": 881,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 47,
+		"Retirements 2024-2027": 40,
+		"Total new workers expected by 2027": 87
+	},
+	{
+		"Occupation ANZSCO4 Code": 4311,
+		"Occupation": "Bar attendants and baristas",
+		"Employment 2024": 25856,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 431,
+		"Retirements 2024-2027": 574,
+		"Total new workers expected by 2027": 1005
+	},
+	{
+		"Occupation ANZSCO4 Code": 4312,
+		"Occupation": "Cafe workers",
+		"Employment 2024": 7653,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 73,
+		"Retirements 2024-2027": 361,
+		"Total new workers expected by 2027": 434
+	},
+	{
+		"Occupation ANZSCO4 Code": 4313,
+		"Occupation": "Gaming workers",
+		"Employment 2024": 1997,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 35,
+		"Retirements 2024-2027": 71,
+		"Total new workers expected by 2027": 107
+	},
+	{
+		"Occupation ANZSCO4 Code": 4314,
+		"Occupation": "Hotel service managers",
+		"Employment 2024": 2686,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 77,
+		"Retirements 2024-2027": 52,
+		"Total new workers expected by 2027": 129
+	},
+	{
+		"Occupation ANZSCO4 Code": 4315,
+		"Occupation": "Waiters",
+		"Employment 2024": 44453,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 769,
+		"Retirements 2024-2027": 1180,
+		"Total new workers expected by 2027": 1949
+	},
+	{
+		"Occupation ANZSCO4 Code": 4319,
+		"Occupation": "Other hospitality workers",
+		"Employment 2024": 1489,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 36,
+		"Retirements 2024-2027": 57,
+		"Total new workers expected by 2027": 93
+	},
+	{
+		"Occupation ANZSCO4 Code": 4411,
+		"Occupation": "Defence force members - other ranks",
+		"Employment 2024": 1618,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 20,
+		"Retirements 2024-2027": 60,
+		"Total new workers expected by 2027": 80
+	},
+	{
+		"Occupation ANZSCO4 Code": 4412,
+		"Occupation": "Fire and emergency workers",
+		"Employment 2024": 4781,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 122,
+		"Retirements 2024-2027": 281,
+		"Total new workers expected by 2027": 403
+	},
+	{
+		"Occupation ANZSCO4 Code": 4413,
+		"Occupation": "Police",
+		"Employment 2024": 18099,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 593,
+		"Retirements 2024-2027": 665,
+		"Total new workers expected by 2027": 1258
+	},
+	{
+		"Occupation ANZSCO4 Code": 4421,
+		"Occupation": "Prison officers",
+		"Employment 2024": 5613,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 214,
+		"Retirements 2024-2027": 401,
+		"Total new workers expected by 2027": 615
+	},
+	{
+		"Occupation ANZSCO4 Code": 4422,
+		"Occupation": "Security officers and guards",
+		"Employment 2024": 14684,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 613,
+		"Retirements 2024-2027": 1375,
+		"Total new workers expected by 2027": 1988
+	},
+	{
+		"Occupation ANZSCO4 Code": 4511,
+		"Occupation": "Beauty therapists",
+		"Employment 2024": 10899,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 184,
+		"Retirements 2024-2027": 175,
+		"Total new workers expected by 2027": 359
+	},
+	{
+		"Occupation ANZSCO4 Code": 4512,
+		"Occupation": "Driving instructors",
+		"Employment 2024": 1538,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 28,
+		"Retirements 2024-2027": 258,
+		"Total new workers expected by 2027": 286
+	},
+	{
+		"Occupation ANZSCO4 Code": 4513,
+		"Occupation": "Funeral workers",
+		"Employment 2024": 1569,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 14,
+		"Retirements 2024-2027": 208,
+		"Total new workers expected by 2027": 222
+	},
+	{
+		"Occupation ANZSCO4 Code": 4514,
+		"Occupation": "Gallery, museum and tour guides",
+		"Employment 2024": 1321,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 14,
+		"Retirements 2024-2027": 173,
+		"Total new workers expected by 2027": 187
+	},
+	{
+		"Occupation ANZSCO4 Code": 4515,
+		"Occupation": "Personal care consultants",
+		"Employment 2024": 1166,
+		"Annual employment growth rate (%) 2024-2027": 0.042,
+		"Employment growth 2024-2027": 154,
+		"Retirements 2024-2027": 167,
+		"Total new workers expected by 2027": 321
+	},
+	{
+		"Occupation ANZSCO4 Code": 4516,
+		"Occupation": "Tourism and travel advisers",
+		"Employment 2024": 3457,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 64,
+		"Retirements 2024-2027": 143,
+		"Total new workers expected by 2027": 207
+	},
+	{
+		"Occupation ANZSCO4 Code": 4517,
+		"Occupation": "Travel attendants",
+		"Employment 2024": 2991,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 78,
+		"Retirements 2024-2027": 111,
+		"Total new workers expected by 2027": 189
+	},
+	{
+		"Occupation ANZSCO4 Code": 4518,
+		"Occupation": "Other personal service workers",
+		"Employment 2024": 5314,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 210,
+		"Retirements 2024-2027": 323,
+		"Total new workers expected by 2027": 533
+	},
+	{
+		"Occupation ANZSCO4 Code": 4521,
+		"Occupation": "Fitness instructors",
+		"Employment 2024": 9163,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 112,
+		"Retirements 2024-2027": 198,
+		"Total new workers expected by 2027": 310
+	},
+	{
+		"Occupation ANZSCO4 Code": 4522,
+		"Occupation": "Outdoor adventure guides",
+		"Employment 2024": 1821,
+		"Annual employment growth rate (%) 2024-2027": 0.001,
+		"Employment growth 2024-2027": 3,
+		"Retirements 2024-2027": 14,
+		"Total new workers expected by 2027": 17
+	},
+	{
+		"Occupation ANZSCO4 Code": 4523,
+		"Occupation": "Sports coaches, instructors and officials",
+		"Employment 2024": 16011,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 184,
+		"Retirements 2024-2027": 422,
+		"Total new workers expected by 2027": 606
+	},
+	{
+		"Occupation ANZSCO4 Code": 4524,
+		"Occupation": "Sportspersons",
+		"Employment 2024": 3244,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 29,
+		"Retirements 2024-2027": 17,
+		"Total new workers expected by 2027": 46
+	},
+	{
+		"Occupation ANZSCO4 Code": 5111,
+		"Occupation": "Contract, program and project administrators",
+		"Employment 2024": 31567,
+		"Annual employment growth rate (%) 2024-2027": -0.005,
+		"Employment growth 2024-2027": -494,
+		"Retirements 2024-2027": 1596,
+		"Total new workers expected by 2027": 1102
+	},
+	{
+		"Occupation ANZSCO4 Code": 5121,
+		"Occupation": "Office managers",
+		"Employment 2024": 30645,
+		"Annual employment growth rate (%) 2024-2027": -0.006,
+		"Employment growth 2024-2027": -546,
+		"Retirements 2024-2027": 2756,
+		"Total new workers expected by 2027": 2210
+	},
+	{
+		"Occupation ANZSCO4 Code": 5122,
+		"Occupation": "Practice managers",
+		"Employment 2024": 7541,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 301,
+		"Retirements 2024-2027": 510,
+		"Total new workers expected by 2027": 811
+	},
+	{
+		"Occupation ANZSCO4 Code": 5211,
+		"Occupation": "Personal assistants",
+		"Employment 2024": 14015,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 83,
+		"Retirements 2024-2027": 1207,
+		"Total new workers expected by 2027": 1290
+	},
+	{
+		"Occupation ANZSCO4 Code": 5212,
+		"Occupation": "Secretaries",
+		"Employment 2024": 6966,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 118,
+		"Retirements 2024-2027": 502,
+		"Total new workers expected by 2027": 620
+	},
+	{
+		"Occupation ANZSCO4 Code": 5311,
+		"Occupation": "General clerks",
+		"Employment 2024": 67531,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 2127,
+		"Retirements 2024-2027": 7163,
+		"Total new workers expected by 2027": 9289
+	},
+	{
+		"Occupation ANZSCO4 Code": 5321,
+		"Occupation": "Keyboard operators",
+		"Employment 2024": 11826,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 463,
+		"Retirements 2024-2027": 977,
+		"Total new workers expected by 2027": 1441
+	},
+	{
+		"Occupation ANZSCO4 Code": 5411,
+		"Occupation": "Call or contact centre workers",
+		"Employment 2024": 9172,
+		"Annual employment growth rate (%) 2024-2027": -0.004,
+		"Employment growth 2024-2027": -111,
+		"Retirements 2024-2027": 139,
+		"Total new workers expected by 2027": 29
+	},
+	{
+		"Occupation ANZSCO4 Code": 5412,
+		"Occupation": "Information officers",
+		"Employment 2024": 23709,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -231,
+		"Retirements 2024-2027": 1303,
+		"Total new workers expected by 2027": 1072
+	},
+	{
+		"Occupation ANZSCO4 Code": 5421,
+		"Occupation": "Receptionists",
+		"Employment 2024": 49386,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 2340,
+		"Retirements 2024-2027": 3543,
+		"Total new workers expected by 2027": 5883
+	},
+	{
+		"Occupation ANZSCO4 Code": 5511,
+		"Occupation": "Accounting clerks",
+		"Employment 2024": 34873,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 1514,
+		"Retirements 2024-2027": 2610,
+		"Total new workers expected by 2027": 4124
+	},
+	{
+		"Occupation ANZSCO4 Code": 5512,
+		"Occupation": "Bookkeepers",
+		"Employment 2024": 26654,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 1250,
+		"Retirements 2024-2027": 2769,
+		"Total new workers expected by 2027": 4020
+	},
+	{
+		"Occupation ANZSCO4 Code": 5513,
+		"Occupation": "Payroll clerks",
+		"Employment 2024": 13634,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 646,
+		"Retirements 2024-2027": 1090,
+		"Total new workers expected by 2027": 1735
+	},
+	{
+		"Occupation ANZSCO4 Code": 5521,
+		"Occupation": "Bank workers",
+		"Employment 2024": 14210,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 420,
+		"Retirements 2024-2027": 696,
+		"Total new workers expected by 2027": 1116
+	},
+	{
+		"Occupation ANZSCO4 Code": 5522,
+		"Occupation": "Credit and loans officers (aus) \\ finance clerks (nz)",
+		"Employment 2024": 12172,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 383,
+		"Retirements 2024-2027": 504,
+		"Total new workers expected by 2027": 886
+	},
+	{
+		"Occupation ANZSCO4 Code": 5523,
+		"Occupation": "Insurance, money market and statistical clerks",
+		"Employment 2024": 10945,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 271,
+		"Retirements 2024-2027": 519,
+		"Total new workers expected by 2027": 790
+	},
+	{
+		"Occupation ANZSCO4 Code": 5611,
+		"Occupation": "Betting clerks",
+		"Employment 2024": 612,
+		"Annual employment growth rate (%) 2024-2027": -0.042,
+		"Employment growth 2024-2027": -74,
+		"Retirements 2024-2027": 75,
+		"Total new workers expected by 2027": 2
+	},
+	{
+		"Occupation ANZSCO4 Code": 5612,
+		"Occupation": "Couriers and postal deliverers",
+		"Employment 2024": 7736,
+		"Annual employment growth rate (%) 2024-2027": 0.001,
+		"Employment growth 2024-2027": 30,
+		"Retirements 2024-2027": 924,
+		"Total new workers expected by 2027": 954
+	},
+	{
+		"Occupation ANZSCO4 Code": 5613,
+		"Occupation": "Filing and registry clerks",
+		"Employment 2024": 4008,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 111,
+		"Retirements 2024-2027": 542,
+		"Total new workers expected by 2027": 653
+	},
+	{
+		"Occupation ANZSCO4 Code": 5614,
+		"Occupation": "Mail sorters",
+		"Employment 2024": 4972,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 97,
+		"Retirements 2024-2027": 552,
+		"Total new workers expected by 2027": 649
+	},
+	{
+		"Occupation ANZSCO4 Code": 5615,
+		"Occupation": "Survey interviewers",
+		"Employment 2024": 861,
+		"Annual employment growth rate (%) 2024-2027": 0.012,
+		"Employment growth 2024-2027": 33,
+		"Retirements 2024-2027": 95,
+		"Total new workers expected by 2027": 128
+	},
+	{
+		"Occupation ANZSCO4 Code": 5616,
+		"Occupation": "Switchboard operators",
+		"Employment 2024": 903,
+		"Annual employment growth rate (%) 2024-2027": 0.017,
+		"Employment growth 2024-2027": 47,
+		"Retirements 2024-2027": 105,
+		"Total new workers expected by 2027": 152
+	},
+	{
+		"Occupation ANZSCO4 Code": 5619,
+		"Occupation": "Other clerical and office support workers",
+		"Employment 2024": 1441,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 67,
+		"Retirements 2024-2027": 111,
+		"Total new workers expected by 2027": 178
+	},
+	{
+		"Occupation ANZSCO4 Code": 5911,
+		"Occupation": "Purchasing and supply logistics clerks",
+		"Employment 2024": 26599,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 523,
+		"Retirements 2024-2027": 1663,
+		"Total new workers expected by 2027": 2186
+	},
+	{
+		"Occupation ANZSCO4 Code": 5912,
+		"Occupation": "Transport and despatch clerks",
+		"Employment 2024": 12100,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 419,
+		"Retirements 2024-2027": 619,
+		"Total new workers expected by 2027": 1038
+	},
+	{
+		"Occupation ANZSCO4 Code": 5991,
+		"Occupation": "Conveyancers and legal executives",
+		"Employment 2024": 4289,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 255,
+		"Retirements 2024-2027": 193,
+		"Total new workers expected by 2027": 448
+	},
+	{
+		"Occupation ANZSCO4 Code": 5992,
+		"Occupation": "Court and legal clerks",
+		"Employment 2024": 4333,
+		"Annual employment growth rate (%) 2024-2027": 0.017,
+		"Employment growth 2024-2027": 224,
+		"Retirements 2024-2027": 194,
+		"Total new workers expected by 2027": 418
+	},
+	{
+		"Occupation ANZSCO4 Code": 5993,
+		"Occupation": "Debt collectors",
+		"Employment 2024": 1315,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 17,
+		"Retirements 2024-2027": 44,
+		"Total new workers expected by 2027": 61
+	},
+	{
+		"Occupation ANZSCO4 Code": 5994,
+		"Occupation": "Human resource clerks",
+		"Employment 2024": 7189,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 400,
+		"Retirements 2024-2027": 428,
+		"Total new workers expected by 2027": 827
+	},
+	{
+		"Occupation ANZSCO4 Code": 5995,
+		"Occupation": "Inspectors and regulatory officers",
+		"Employment 2024": 9487,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 275,
+		"Retirements 2024-2027": 677,
+		"Total new workers expected by 2027": 952
+	},
+	{
+		"Occupation ANZSCO4 Code": 5996,
+		"Occupation": "Insurance investigators, loss adjusters and risk surveyors",
+		"Employment 2024": 1151,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 24,
+		"Retirements 2024-2027": 78,
+		"Total new workers expected by 2027": 101
+	},
+	{
+		"Occupation ANZSCO4 Code": 5997,
+		"Occupation": "Library assistants",
+		"Employment 2024": 784,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -8,
+		"Retirements 2024-2027": 63,
+		"Total new workers expected by 2027": 55
+	},
+	{
+		"Occupation ANZSCO4 Code": 5999,
+		"Occupation": "Other miscellaneous clerical and administrative workers",
+		"Employment 2024": 4504,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 134,
+		"Retirements 2024-2027": 467,
+		"Total new workers expected by 2027": 601
+	},
+	{
+		"Occupation ANZSCO4 Code": 6111,
+		"Occupation": "Auctioneers, and stock and station agents",
+		"Employment 2024": 1746,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": -1,
+		"Retirements 2024-2027": 186,
+		"Total new workers expected by 2027": 185
+	},
+	{
+		"Occupation ANZSCO4 Code": 6112,
+		"Occupation": "Insurance agents",
+		"Employment 2024": 3103,
+		"Annual employment growth rate (%) 2024-2027": 0.012,
+		"Employment growth 2024-2027": 116,
+		"Retirements 2024-2027": 164,
+		"Total new workers expected by 2027": 280
+	},
+	{
+		"Occupation ANZSCO4 Code": 6113,
+		"Occupation": "Sales representatives",
+		"Employment 2024": 21195,
+		"Annual employment growth rate (%) 2024-2027": 0.018,
+		"Employment growth 2024-2027": 1144,
+		"Retirements 2024-2027": 1049,
+		"Total new workers expected by 2027": 2193
+	},
+	{
+		"Occupation ANZSCO4 Code": 6121,
+		"Occupation": "Real estate sales agents",
+		"Employment 2024": 25336,
+		"Annual employment growth rate (%) 2024-2027": 0.024,
+		"Employment growth 2024-2027": 1877,
+		"Retirements 2024-2027": 1446,
+		"Total new workers expected by 2027": 3323
+	},
+	{
+		"Occupation ANZSCO4 Code": 6211,
+		"Occupation": "Sales assistants (general)",
+		"Employment 2024": 152767,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 3930,
+		"Retirements 2024-2027": 8120,
+		"Total new workers expected by 2027": 12049
+	},
+	{
+		"Occupation ANZSCO4 Code": 6212,
+		"Occupation": "Ict sales assistants",
+		"Employment 2024": 4974,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 123,
+		"Retirements 2024-2027": 175,
+		"Total new workers expected by 2027": 299
+	},
+	{
+		"Occupation ANZSCO4 Code": 6213,
+		"Occupation": "Motor vehicle and vehicle parts salespersons",
+		"Employment 2024": 8657,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 430,
+		"Retirements 2024-2027": 588,
+		"Total new workers expected by 2027": 1019
+	},
+	{
+		"Occupation ANZSCO4 Code": 6214,
+		"Occupation": "Pharmacy sales assistants",
+		"Employment 2024": 8634,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 134,
+		"Retirements 2024-2027": 341,
+		"Total new workers expected by 2027": 475
+	},
+	{
+		"Occupation ANZSCO4 Code": 6215,
+		"Occupation": "Retail supervisors",
+		"Employment 2024": 9409,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 206,
+		"Retirements 2024-2027": 446,
+		"Total new workers expected by 2027": 652
+	},
+	{
+		"Occupation ANZSCO4 Code": 6216,
+		"Occupation": "Service station attendants",
+		"Employment 2024": 2735,
+		"Annual employment growth rate (%) 2024-2027": 0.008,
+		"Employment growth 2024-2027": 70,
+		"Retirements 2024-2027": 135,
+		"Total new workers expected by 2027": 205
+	},
+	{
+		"Occupation ANZSCO4 Code": 6217,
+		"Occupation": "Street vendors and related salespersons",
+		"Employment 2024": 1402,
+		"Annual employment growth rate (%) 2024-2027": 0.025,
+		"Employment growth 2024-2027": 106,
+		"Retirements 2024-2027": 43,
+		"Total new workers expected by 2027": 149
+	},
+	{
+		"Occupation ANZSCO4 Code": 6219,
+		"Occupation": "Other sales assistants and salespersons",
+		"Employment 2024": 4531,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 176,
+		"Retirements 2024-2027": 250,
+		"Total new workers expected by 2027": 426
+	},
+	{
+		"Occupation ANZSCO4 Code": 6311,
+		"Occupation": "Checkout operators and office cashiers",
+		"Employment 2024": 29548,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 176,
+		"Retirements 2024-2027": 924,
+		"Total new workers expected by 2027": 1100
+	},
+	{
+		"Occupation ANZSCO4 Code": 6391,
+		"Occupation": "Models and sales demonstrators",
+		"Employment 2024": 1613,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 29,
+		"Retirements 2024-2027": 105,
+		"Total new workers expected by 2027": 133
+	},
+	{
+		"Occupation ANZSCO4 Code": 6392,
+		"Occupation": "Retail and wool buyers",
+		"Employment 2024": 3064,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 107,
+		"Retirements 2024-2027": 119,
+		"Total new workers expected by 2027": 226
+	},
+	{
+		"Occupation ANZSCO4 Code": 6393,
+		"Occupation": "Telemarketers",
+		"Employment 2024": 1062,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 61,
+		"Retirements 2024-2027": 70,
+		"Total new workers expected by 2027": 131
+	},
+	{
+		"Occupation ANZSCO4 Code": 6394,
+		"Occupation": "Ticket salespersons",
+		"Employment 2024": 4523,
+		"Annual employment growth rate (%) 2024-2027": 0.016,
+		"Employment growth 2024-2027": 218,
+		"Retirements 2024-2027": 253,
+		"Total new workers expected by 2027": 471
+	},
+	{
+		"Occupation ANZSCO4 Code": 6395,
+		"Occupation": "Visual merchandisers",
+		"Employment 2024": 2031,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 60,
+		"Retirements 2024-2027": 295,
+		"Total new workers expected by 2027": 355
+	},
+	{
+		"Occupation ANZSCO4 Code": 6399,
+		"Occupation": "Other sales support workers",
+		"Employment 2024": 1433,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 32,
+		"Retirements 2024-2027": 0,
+		"Total new workers expected by 2027": 32
+	},
+	{
+		"Occupation ANZSCO4 Code": 7111,
+		"Occupation": "Clay, concrete, glass and stone processing machine operators",
+		"Employment 2024": 925,
+		"Annual employment growth rate (%) 2024-2027": 0.045,
+		"Employment growth 2024-2027": 130,
+		"Retirements 2024-2027": 82,
+		"Total new workers expected by 2027": 212
+	},
+	{
+		"Occupation ANZSCO4 Code": 7112,
+		"Occupation": "Industrial spraypainters",
+		"Employment 2024": 1135,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 36,
+		"Retirements 2024-2027": 80,
+		"Total new workers expected by 2027": 116
+	},
+	{
+		"Occupation ANZSCO4 Code": 7113,
+		"Occupation": "Paper and wood processing machine operators",
+		"Employment 2024": 2140,
+		"Annual employment growth rate (%) 2024-2027": 0.022,
+		"Employment growth 2024-2027": 147,
+		"Retirements 2024-2027": 171,
+		"Total new workers expected by 2027": 318
+	},
+	{
+		"Occupation ANZSCO4 Code": 7114,
+		"Occupation": "Photographic developers and printers",
+		"Employment 2024": 550,
+		"Annual employment growth rate (%) 2024-2027": -0.016,
+		"Employment growth 2024-2027": -26,
+		"Retirements 2024-2027": 30,
+		"Total new workers expected by 2027": 4
+	},
+	{
+		"Occupation ANZSCO4 Code": 7115,
+		"Occupation": "Plastics and rubber production machine operators",
+		"Employment 2024": 2139,
+		"Annual employment growth rate (%) 2024-2027": -0.024,
+		"Employment growth 2024-2027": -151,
+		"Retirements 2024-2027": 194,
+		"Total new workers expected by 2027": 43
+	},
+	{
+		"Occupation ANZSCO4 Code": 7116,
+		"Occupation": "Sewing machinists",
+		"Employment 2024": 2937,
+		"Annual employment growth rate (%) 2024-2027": -0.047,
+		"Employment growth 2024-2027": -397,
+		"Retirements 2024-2027": 580,
+		"Total new workers expected by 2027": 182
+	},
+	{
+		"Occupation ANZSCO4 Code": 7117,
+		"Occupation": "Textile and footwear production machine operators",
+		"Employment 2024": 1451,
+		"Annual employment growth rate (%) 2024-2027": -0.06,
+		"Employment growth 2024-2027": -245,
+		"Retirements 2024-2027": 145,
+		"Total new workers expected by 2027": -101
+	},
+	{
+		"Occupation ANZSCO4 Code": 7119,
+		"Occupation": "Other machine operators",
+		"Employment 2024": 4270,
+		"Annual employment growth rate (%) 2024-2027": 0.006,
+		"Employment growth 2024-2027": 80,
+		"Retirements 2024-2027": 383,
+		"Total new workers expected by 2027": 462
+	},
+	{
+		"Occupation ANZSCO4 Code": 7121,
+		"Occupation": "Crane, hoist and lift operators",
+		"Employment 2024": 2644,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 83,
+		"Retirements 2024-2027": 238,
+		"Total new workers expected by 2027": 321
+	},
+	{
+		"Occupation ANZSCO4 Code": 7122,
+		"Occupation": "Drillers, miners and shot firers",
+		"Employment 2024": 2150,
+		"Annual employment growth rate (%) 2024-2027": -0.012,
+		"Employment growth 2024-2027": -78,
+		"Retirements 2024-2027": 140,
+		"Total new workers expected by 2027": 62
+	},
+	{
+		"Occupation ANZSCO4 Code": 7123,
+		"Occupation": "Engineering production workers",
+		"Employment 2024": 4347,
+		"Annual employment growth rate (%) 2024-2027": -0.002,
+		"Employment growth 2024-2027": -28,
+		"Retirements 2024-2027": 249,
+		"Total new workers expected by 2027": 222
+	},
+	{
+		"Occupation ANZSCO4 Code": 7129,
+		"Occupation": "Other stationary plant operators",
+		"Employment 2024": 3652,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -37,
+		"Retirements 2024-2027": 259,
+		"Total new workers expected by 2027": 222
+	},
+	{
+		"Occupation ANZSCO4 Code": 7211,
+		"Occupation": "Agricultural, forestry and horticultural plant operators",
+		"Employment 2024": 3273,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": -1,
+		"Retirements 2024-2027": 410,
+		"Total new workers expected by 2027": 409
+	},
+	{
+		"Occupation ANZSCO4 Code": 7212,
+		"Occupation": "Earthmoving plant operators",
+		"Employment 2024": 12740,
+		"Annual employment growth rate (%) 2024-2027": 0.038,
+		"Employment growth 2024-2027": 1504,
+		"Retirements 2024-2027": 923,
+		"Total new workers expected by 2027": 2427
+	},
+	{
+		"Occupation ANZSCO4 Code": 7213,
+		"Occupation": "Forklift drivers",
+		"Employment 2024": 23448,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 278,
+		"Retirements 2024-2027": 1442,
+		"Total new workers expected by 2027": 1720
+	},
+	{
+		"Occupation ANZSCO4 Code": 7219,
+		"Occupation": "Other mobile plant operators",
+		"Employment 2024": 1662,
+		"Annual employment growth rate (%) 2024-2027": 0.03,
+		"Employment growth 2024-2027": 152,
+		"Retirements 2024-2027": 93,
+		"Total new workers expected by 2027": 245
+	},
+	{
+		"Occupation ANZSCO4 Code": 7311,
+		"Occupation": "Automobile drivers",
+		"Employment 2024": 16487,
+		"Annual employment growth rate (%) 2024-2027": 0.012,
+		"Employment growth 2024-2027": 583,
+		"Retirements 2024-2027": 2291,
+		"Total new workers expected by 2027": 2874
+	},
+	{
+		"Occupation ANZSCO4 Code": 7312,
+		"Occupation": "Bus and coach drivers",
+		"Employment 2024": 7891,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 165,
+		"Retirements 2024-2027": 717,
+		"Total new workers expected by 2027": 882
+	},
+	{
+		"Occupation ANZSCO4 Code": 7313,
+		"Occupation": "Train and tram drivers",
+		"Employment 2024": 3528,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 110,
+		"Retirements 2024-2027": 241,
+		"Total new workers expected by 2027": 351
+	},
+	{
+		"Occupation ANZSCO4 Code": 7321,
+		"Occupation": "Delivery drivers",
+		"Employment 2024": 21552,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 173,
+		"Retirements 2024-2027": 2006,
+		"Total new workers expected by 2027": 2179
+	},
+	{
+		"Occupation ANZSCO4 Code": 7331,
+		"Occupation": "Truck drivers",
+		"Employment 2024": 49176,
+		"Annual employment growth rate (%) 2024-2027": 0.009,
+		"Employment growth 2024-2027": 1343,
+		"Retirements 2024-2027": 4341,
+		"Total new workers expected by 2027": 5684
+	},
+	{
+		"Occupation ANZSCO4 Code": 7411,
+		"Occupation": "Storepersons",
+		"Employment 2024": 45655,
+		"Annual employment growth rate (%) 2024-2027": 0.01,
+		"Employment growth 2024-2027": 1334,
+		"Retirements 2024-2027": 3108,
+		"Total new workers expected by 2027": 4442
+	},
+	{
+		"Occupation ANZSCO4 Code": 8111,
+		"Occupation": "Car detailers",
+		"Employment 2024": 5560,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -57,
+		"Retirements 2024-2027": 308,
+		"Total new workers expected by 2027": 250
+	},
+	{
+		"Occupation ANZSCO4 Code": 8112,
+		"Occupation": "Commercial cleaners",
+		"Employment 2024": 36933,
+		"Annual employment growth rate (%) 2024-2027": 0.005,
+		"Employment growth 2024-2027": 517,
+		"Retirements 2024-2027": 5327,
+		"Total new workers expected by 2027": 5844
+	},
+	{
+		"Occupation ANZSCO4 Code": 8113,
+		"Occupation": "Domestic cleaners",
+		"Employment 2024": 10984,
+		"Annual employment growth rate (%) 2024-2027": -0.004,
+		"Employment growth 2024-2027": -123,
+		"Retirements 2024-2027": 2017,
+		"Total new workers expected by 2027": 1895
+	},
+	{
+		"Occupation ANZSCO4 Code": 8114,
+		"Occupation": "Housekeepers",
+		"Employment 2024": 5087,
+		"Annual employment growth rate (%) 2024-2027": 0.004,
+		"Employment growth 2024-2027": 65,
+		"Retirements 2024-2027": 543,
+		"Total new workers expected by 2027": 609
+	},
+	{
+		"Occupation ANZSCO4 Code": 8115,
+		"Occupation": "Laundry workers",
+		"Employment 2024": 2937,
+		"Annual employment growth rate (%) 2024-2027": -0.006,
+		"Employment growth 2024-2027": -56,
+		"Retirements 2024-2027": 339,
+		"Total new workers expected by 2027": 283
+	},
+	{
+		"Occupation ANZSCO4 Code": 8116,
+		"Occupation": "Other cleaners",
+		"Employment 2024": 3549,
+		"Annual employment growth rate (%) 2024-2027": -0.004,
+		"Employment growth 2024-2027": -37,
+		"Retirements 2024-2027": 498,
+		"Total new workers expected by 2027": 460
+	},
+	{
+		"Occupation ANZSCO4 Code": 8211,
+		"Occupation": "Building and plumbing labourers",
+		"Employment 2024": 17687,
+		"Annual employment growth rate (%) 2024-2027": 0.041,
+		"Employment growth 2024-2027": 2285,
+		"Retirements 2024-2027": 984,
+		"Total new workers expected by 2027": 3269
+	},
+	{
+		"Occupation ANZSCO4 Code": 8212,
+		"Occupation": "Concreters",
+		"Employment 2024": 10918,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 910,
+		"Retirements 2024-2027": 468,
+		"Total new workers expected by 2027": 1379
+	},
+	{
+		"Occupation ANZSCO4 Code": 8213,
+		"Occupation": "Fencers",
+		"Employment 2024": 3549,
+		"Annual employment growth rate (%) 2024-2027": 0.019,
+		"Employment growth 2024-2027": 209,
+		"Retirements 2024-2027": 279,
+		"Total new workers expected by 2027": 489
+	},
+	{
+		"Occupation ANZSCO4 Code": 8214,
+		"Occupation": "Insulation and home improvement installers",
+		"Employment 2024": 6802,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 576,
+		"Retirements 2024-2027": 407,
+		"Total new workers expected by 2027": 982
+	},
+	{
+		"Occupation ANZSCO4 Code": 8215,
+		"Occupation": "Paving and surfacing labourers",
+		"Employment 2024": 2073,
+		"Annual employment growth rate (%) 2024-2027": 0.053,
+		"Employment growth 2024-2027": 346,
+		"Retirements 2024-2027": 119,
+		"Total new workers expected by 2027": 464
+	},
+	{
+		"Occupation ANZSCO4 Code": 8216,
+		"Occupation": "Railway track workers",
+		"Employment 2024": 1094,
+		"Annual employment growth rate (%) 2024-2027": 0.029,
+		"Employment growth 2024-2027": 97,
+		"Retirements 2024-2027": 68,
+		"Total new workers expected by 2027": 165
+	},
+	{
+		"Occupation ANZSCO4 Code": 8217,
+		"Occupation": "Structural steel construction workers",
+		"Employment 2024": 4573,
+		"Annual employment growth rate (%) 2024-2027": 0.041,
+		"Employment growth 2024-2027": 583,
+		"Retirements 2024-2027": 204,
+		"Total new workers expected by 2027": 788
+	},
+	{
+		"Occupation ANZSCO4 Code": 8219,
+		"Occupation": "Other construction and mining labourers",
+		"Employment 2024": 760,
+		"Annual employment growth rate (%) 2024-2027": 0.02,
+		"Employment growth 2024-2027": 46,
+		"Retirements 2024-2027": 52,
+		"Total new workers expected by 2027": 98
+	},
+	{
+		"Occupation ANZSCO4 Code": 8311,
+		"Occupation": "Food and drink factory workers",
+		"Employment 2024": 13921,
+		"Annual employment growth rate (%) 2024-2027": -0.007,
+		"Employment growth 2024-2027": -293,
+		"Retirements 2024-2027": 1170,
+		"Total new workers expected by 2027": 876
+	},
+	{
+		"Occupation ANZSCO4 Code": 8312,
+		"Occupation": "Meat boners and slicers, and slaughterers",
+		"Employment 2024": 1872,
+		"Annual employment growth rate (%) 2024-2027": -0.008,
+		"Employment growth 2024-2027": -43,
+		"Retirements 2024-2027": 93,
+		"Total new workers expected by 2027": 49
+	},
+	{
+		"Occupation ANZSCO4 Code": 8313,
+		"Occupation": "Meat, poultry and seafood process workers",
+		"Employment 2024": 3715,
+		"Annual employment growth rate (%) 2024-2027": -0.008,
+		"Employment growth 2024-2027": -88,
+		"Retirements 2024-2027": 253,
+		"Total new workers expected by 2027": 166
+	},
+	{
+		"Occupation ANZSCO4 Code": 8321,
+		"Occupation": "Packers",
+		"Employment 2024": 21821,
+		"Annual employment growth rate (%) 2024-2027": -0.001,
+		"Employment growth 2024-2027": -56,
+		"Retirements 2024-2027": 1831,
+		"Total new workers expected by 2027": 1775
+	},
+	{
+		"Occupation ANZSCO4 Code": 8322,
+		"Occupation": "Product assemblers",
+		"Employment 2024": 11763,
+		"Annual employment growth rate (%) 2024-2027": 0.011,
+		"Employment growth 2024-2027": 381,
+		"Retirements 2024-2027": 934,
+		"Total new workers expected by 2027": 1315
+	},
+	{
+		"Occupation ANZSCO4 Code": 8391,
+		"Occupation": "Metal engineering process workers",
+		"Employment 2024": 3704,
+		"Annual employment growth rate (%) 2024-2027": 0.014,
+		"Employment growth 2024-2027": 156,
+		"Retirements 2024-2027": 243,
+		"Total new workers expected by 2027": 399
+	},
+	{
+		"Occupation ANZSCO4 Code": 8392,
+		"Occupation": "Plastics and rubber factory workers",
+		"Employment 2024": 1381,
+		"Annual employment growth rate (%) 2024-2027": -0.013,
+		"Employment growth 2024-2027": -53,
+		"Retirements 2024-2027": 108,
+		"Total new workers expected by 2027": 55
+	},
+	{
+		"Occupation ANZSCO4 Code": 8393,
+		"Occupation": "Product quality controllers",
+		"Employment 2024": 4832,
+		"Annual employment growth rate (%) 2024-2027": 0.002,
+		"Employment growth 2024-2027": 36,
+		"Retirements 2024-2027": 450,
+		"Total new workers expected by 2027": 486
+	},
+	{
+		"Occupation ANZSCO4 Code": 8394,
+		"Occupation": "Timber and wood process workers",
+		"Employment 2024": 1271,
+		"Annual employment growth rate (%) 2024-2027": 0.049,
+		"Employment growth 2024-2027": 195,
+		"Retirements 2024-2027": 83,
+		"Total new workers expected by 2027": 278
+	},
+	{
+		"Occupation ANZSCO4 Code": 8399,
+		"Occupation": "Other factory process workers",
+		"Employment 2024": 3964,
+		"Annual employment growth rate (%) 2024-2027": 0.003,
+		"Employment growth 2024-2027": 39,
+		"Retirements 2024-2027": 284,
+		"Total new workers expected by 2027": 322
+	},
+	{
+		"Occupation ANZSCO4 Code": 8411,
+		"Occupation": "Aquaculture workers",
+		"Employment 2024": 78,
+		"Annual employment growth rate (%) 2024-2027": -0.334,
+		"Employment growth 2024-2027": -55,
+		"Retirements 2024-2027": 1,
+		"Total new workers expected by 2027": -54
+	},
+	{
+		"Occupation ANZSCO4 Code": 8412,
+		"Occupation": "Crop farm workers",
+		"Employment 2024": 5563,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": -1,
+		"Retirements 2024-2027": 744,
+		"Total new workers expected by 2027": 742
+	},
+	{
+		"Occupation ANZSCO4 Code": 8413,
+		"Occupation": "Forestry and logging workers",
+		"Employment 2024": 794,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": 0,
+		"Retirements 2024-2027": 51,
+		"Total new workers expected by 2027": 51
+	},
+	{
+		"Occupation ANZSCO4 Code": 8414,
+		"Occupation": "Garden and nursery labourers",
+		"Employment 2024": 11657,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 255,
+		"Retirements 2024-2027": 948,
+		"Total new workers expected by 2027": 1203
+	},
+	{
+		"Occupation ANZSCO4 Code": 8415,
+		"Occupation": "Livestock farm workers",
+		"Employment 2024": 8942,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -71,
+		"Retirements 2024-2027": 673,
+		"Total new workers expected by 2027": 602
+	},
+	{
+		"Occupation ANZSCO4 Code": 8416,
+		"Occupation": "Mixed crop and livestock farm workers",
+		"Employment 2024": 1336,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": 0,
+		"Retirements 2024-2027": 94,
+		"Total new workers expected by 2027": 94
+	},
+	{
+		"Occupation ANZSCO4 Code": 8419,
+		"Occupation": "Other farm, forestry and garden workers",
+		"Employment 2024": 2434,
+		"Annual employment growth rate (%) 2024-2027": 0,
+		"Employment growth 2024-2027": 0,
+		"Retirements 2024-2027": 307,
+		"Total new workers expected by 2027": 308
+	},
+	{
+		"Occupation ANZSCO4 Code": 8511,
+		"Occupation": "Fast food cooks",
+		"Employment 2024": 12333,
+		"Annual employment growth rate (%) 2024-2027": -0.008,
+		"Employment growth 2024-2027": -309,
+		"Retirements 2024-2027": 166,
+		"Total new workers expected by 2027": -142
+	},
+	{
+		"Occupation ANZSCO4 Code": 8512,
+		"Occupation": "Food trades assistants",
+		"Employment 2024": 2171,
+		"Annual employment growth rate (%) 2024-2027": -0.019,
+		"Employment growth 2024-2027": -121,
+		"Retirements 2024-2027": 120,
+		"Total new workers expected by 2027": -1
+	},
+	{
+		"Occupation ANZSCO4 Code": 8513,
+		"Occupation": "Kitchenhands",
+		"Employment 2024": 31926,
+		"Annual employment growth rate (%) 2024-2027": -0.004,
+		"Employment growth 2024-2027": -420,
+		"Retirements 2024-2027": 2652,
+		"Total new workers expected by 2027": 2232
+	},
+	{
+		"Occupation ANZSCO4 Code": 8911,
+		"Occupation": "Freight and furniture handlers",
+		"Employment 2024": 2448,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 109,
+		"Retirements 2024-2027": 195,
+		"Total new workers expected by 2027": 304
+	},
+	{
+		"Occupation ANZSCO4 Code": 8912,
+		"Occupation": "Shelf fillers",
+		"Employment 2024": 19148,
+		"Annual employment growth rate (%) 2024-2027": -0.004,
+		"Employment growth 2024-2027": -255,
+		"Retirements 2024-2027": 20,
+		"Total new workers expected by 2027": -235
+	},
+	{
+		"Occupation ANZSCO4 Code": 8991,
+		"Occupation": "Caretakers",
+		"Employment 2024": 804,
+		"Annual employment growth rate (%) 2024-2027": -0.003,
+		"Employment growth 2024-2027": -8,
+		"Retirements 2024-2027": 193,
+		"Total new workers expected by 2027": 185
+	},
+	{
+		"Occupation ANZSCO4 Code": 8992,
+		"Occupation": "Deck and fishing hands",
+		"Employment 2024": 1481,
+		"Annual employment growth rate (%) 2024-2027": 0.036,
+		"Employment growth 2024-2027": 168,
+		"Retirements 2024-2027": 183,
+		"Total new workers expected by 2027": 351
+	},
+	{
+		"Occupation ANZSCO4 Code": 8993,
+		"Occupation": "Handypersons",
+		"Employment 2024": 12038,
+		"Annual employment growth rate (%) 2024-2027": 0.021,
+		"Employment growth 2024-2027": 775,
+		"Retirements 2024-2027": 2874,
+		"Total new workers expected by 2027": 3649
+	},
+	{
+		"Occupation ANZSCO4 Code": 8994,
+		"Occupation": "Motor vehicle parts and accessories fitters",
+		"Employment 2024": 1962,
+		"Annual employment growth rate (%) 2024-2027": 0.015,
+		"Employment growth 2024-2027": 87,
+		"Retirements 2024-2027": 86,
+		"Total new workers expected by 2027": 173
+	},
+	{
+		"Occupation ANZSCO4 Code": 8995,
+		"Occupation": "Printing assistants and table workers",
+		"Employment 2024": 1337,
+		"Annual employment growth rate (%) 2024-2027": -0.019,
+		"Employment growth 2024-2027": -75,
+		"Retirements 2024-2027": 132,
+		"Total new workers expected by 2027": 57
+	},
+	{
+		"Occupation ANZSCO4 Code": 8996,
+		"Occupation": "Recycling and rubbish collectors",
+		"Employment 2024": 1107,
+		"Annual employment growth rate (%) 2024-2027": 0.027,
+		"Employment growth 2024-2027": 92,
+		"Retirements 2024-2027": 87,
+		"Total new workers expected by 2027": 179
+	},
+	{
+		"Occupation ANZSCO4 Code": 8997,
+		"Occupation": "Vending machine attendants",
+		"Employment 2024": 1852,
+		"Annual employment growth rate (%) 2024-2027": 0.007,
+		"Employment growth 2024-2027": 38,
+		"Retirements 2024-2027": 69,
+		"Total new workers expected by 2027": 107
+	},
+	{
+		"Occupation ANZSCO4 Code": 8999,
+		"Occupation": "Other miscellaneous labourers",
+		"Employment 2024": 14890,
+		"Annual employment growth rate (%) 2024-2027": 0.013,
+		"Employment growth 2024-2027": 589,
+		"Retirements 2024-2027": 1508,
+		"Total new workers expected by 2027": 2097
+	}
+]
