@@ -3,15 +3,16 @@
 	let { children } = $props();
 </script>
 
-<div class="app">
-	<div class="position-absolute p-2 top-0 start-0 fst-italic">
+<div class="app" role="application" aria-label="Employment Projections Data Download Service">
+	<nav class="position-absolute p-2 top-0 start-0 fst-italic" aria-label="Navigation">
 		<a
 			class="text-muted"
 			href="https://app.powerbi.com/view?r=eyJrIjoiMzc5YjdkNWEtNWI2Yi00ZTA1LThiMWQtMzMwYjFlYWUwYzEwIiwidCI6IjcyMmVhMGJlLTNlMWMtNGIxMS1hZDZmLTk0MDFkNjg1NmUyNCJ9"
+			aria-label="Return to Employment Projections Dashboard"
 		>
 			⏴Back to dashboard
 		</a>
-	</div>
+	</nav>
 
 	<main>
 		{@render children()}
